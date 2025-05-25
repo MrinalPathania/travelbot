@@ -1,0 +1,16 @@
+Nationality: Indian
+Destination: CA
+Trip Duration: 20 days
+Risk Score: 8/10
+Tier: 🔴 High Risk — Comprehensive Coverage Strongly Advised
+
+Answers:
+- High BP: Y
+- Heart: Y
+- Diabetes: 2
+- Pregnancy: Y
+- Smoker: Y
+- 60+: Y
+- Conflict Zone: N
+- COVID add-on: Y
+- Cancellation: Y

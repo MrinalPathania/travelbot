@@ -1,0 +1,17 @@
+Nationality: Unknown
+Destination: Canada
+Trip Duration: 163 days
+Risk Score: 4.5/10
+Tier: 🟡 Moderate Risk — Enhanced Coverage Recommended
+
+Answers:
+- Heart Disease/Stroke: no
+- Cancer/Immune Condition: no
+- Diabetes/High BP: yes
+- Age: 78
+- Recent Surgery/Pregnancy: no
+- High-Risk Destination: no
+- Adventure Travel: no
+- International Student/Expat: no
+- Medical Evacuation: no
+- Trip Cancellation/Baggage Loss: yes

@@ -1,0 +1,8 @@
+Nationality: Indian
+Destination: CA
+Trip Duration: 147 days
+Risk Score: 0/10
+Tier: 🟢 Low Risk — Standard Plans Sufficient
+
+Answers:
+- Conflict Zone: No

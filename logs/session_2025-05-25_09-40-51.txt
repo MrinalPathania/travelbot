@@ -1,0 +1,15 @@
+Nationality: Indian
+Destination: CA
+Trip Duration: 177 days
+Risk Score: 7/10
+Tier: 🟡 Moderate Risk — Enhanced Coverage Recommended
+
+Answers:
+- High Blood Pressure: Yes
+- Heart Conditions: Yes
+- Diabetes: 2
+- Above 60: Yes
+- Trip > 30 Days: Yes
+- Conflict Zone: No
+- COVID Coverage: Yes
+- Cancellation Coverage: Yes

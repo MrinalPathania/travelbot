@@ -1,0 +1,8624 @@
+aleknagik
+aleknagik  new airport
+honiara
+honiara international airport
+munda
+munda airport
+yaren district
+nauru international airport
+bayanhot
+alxa left banner bayanhot airport
+baimuru
+baimuru airport
+buka island
+buka airport
+balimo
+balimo airport
+kundiawa
+chimbu airport
+daru
+daru airport
+goronka
+goroka airport
+gurney
+gurney airport
+popondetta
+girua airport
+kimbe
+hoskins airport
+kerema
+kerema airport
+kavieng
+kavieng airport
+madang
+madang airport
+mount hagen
+mount hagen kagamuga airport
+mendi
+mendi airport
+manus island
+momote airport
+lae
+nadzab airport
+port moresby
+port moresby jacksons international airport
+kokopo
+tokua airport
+vanimo
+vanimo airport
+wapenamanda
+wapenamanda airport
+wewak
+wewak international airport
+zabrat
+zabrat airport
+benguera island
+benguera island airport
+bezmer
+bezmer air base
+aasiaat
+aasiaat airport
+narsarsuaq
+narsarsuaq airport
+nuuk
+nuuk airport
+ilulissat
+ilulissat airport
+kulusuk
+kulusuk airport
+kangerlussuaq
+kangerlussuaq airport
+sisimiut
+sisimiut airport
+pituffik
+pituffik space base
+akureyri
+akureyri airport
+egilsstair
+egilsstair airport
+hfn
+hornafjrur airport
+hsavk
+hsavk airport
+safjrur
+safjrur airport
+reykjavk
+keflavik international airport
+reykjavk domestic airport
+siglufjrur
+siglufjrur airport
+vestmannaeyjar
+vestmannaeyjar airport
+prishtina
+pritina adem jashari international airport
+vitria da conquista
+glauber de andrade rocha airport
+betong
+betong international airport
+orsha
+orsha airport  balbasovo air base
+caye caulker
+caye caulker airport
+caye chapel
+caye chapel airport
+corozal
+corozal airport
+dangriga
+dangriga airport
+punta gorda
+punta gorda airport
+sartaneja
+sartaneja airport
+san pedro
+john greif ii airport
+belize city
+sir barry bowen municipal airport
+bazaruto island
+bazaruto island airport
+anahim lake
+anahim lake airport
+qualicum beach
+qualicum beach airport
+cache creek
+cache creekashcroft regional airport
+bella bella
+bella bella campbell island airport
+shaoguan
+shaoguan danxia airport
+jian
+jinggangshan airport
+wuhan hannan
+wuhan hannan municipal airport
+beijing
+beijing nanjiao airport
+xigaz dingri
+rikaze dingri airport
+tashikuergan
+tashikuergan hongqilafu airport
+burang town
+ali pulan airport
+fort frances
+fort frances municipal airport
+la grande
+la grande airport
+sault ste marie
+sault ste marie airport
+kasabonika
+kasabonika airport
+anthony
+st anthony
+anthony airport
+st anthony airport
+tofino
+tofino  long beach airport
+baiecomeau
+baiecomeau airport
+bella coola
+bella coola airport
+bonnyville
+bonnyville airport
+la baie
+cfb bagotville  saguenaybagotville airport
+baker lake
+baker lake airport
+campbell river
+campbell river airport
+brandon
+brandon municipal airport
+blancsablon
+lourdesdeblancsablon airport
+cambridge bay
+cambridge bay airport
+cornwall
+cornwall regional airport
+nanaimo
+nanaimo airport
+huron park
+centralia  james t field memorial aerodrome
+castlegar
+castlegarwest kootenay regional airport
+miramichi
+miramichi airport
+charlo
+charlo airport
+cochrane
+cochrane airport
+chetwynd
+chetwynd airport
+dawson city
+dawson city airport
+burwash landing
+burwash airport
+deer lake
+deer lake airport
+ross river
+ross river airport
+dauphin
+dauphin barker airport
+dolbeausaintfelicien
+dolbeausaintfelicien airport
+dawson creek
+dawson creek airport
+edmonton
+edmonton international airport
+elliot lake
+elliot lake municipal airport
+sheguiandah
+manitoulin east municipal airport
+estevan
+estevan airport
+edson
+edson airport
+inuvik
+inuvik mike zubko airport
+amos
+amosmagny airport
+iqaluit
+iqaluit airport
+fredericton
+fredericton airport
+forestville
+forestville airport
+la macaza
+monttremblant international airport
+fort resolution
+fort resolution airport
+fort simpson
+fort simpson airport
+kingston
+kingston norman rogers airport
+la grande rivire
+la grande rivire airport
+gimli
+gimli industrial park airport
+gasp
+michelpouliot gasp airport
+geraldton
+geraldton greenstone regional airport
+les lesdelamadeleine
+lesdelamadeleine airport
+havresaintpierre
+havresaintpierre airport
+kuujjuarapik
+kuujjuarapik airport
+dryden
+dryden regional airport
+hearst
+hearst ren fontaine municipal airport
+hamilton
+john c munro hamilton international airport
+hornepayne
+hornepayne municipal airport
+haines junction
+haines junction airport
+montral
+montral  sainthubert metropolitan airport
+hay river
+hay river  merlyn carter airport
+halifax
+halifax  stanfield international airport
+atikokan
+atikokan municipal airport
+digby
+digby  annapolis regional airport
+staugustin
+augustin airport
+st augustin airport
+island lake
+island lake airport
+fort liard
+fort liard airport
+jean
+st jean
+st jean airport
+jean airport
+stephenville
+dymond airport
+kamloops
+kamloops john moose fulton field regional airport
+breslau
+region of waterloo international airport
+key lake
+key lake airport
+schefferville
+schefferville airport
+kincardine
+kincardine municipal airport
+kirkland lake
+kirkland lake airport
+kindersley
+kindersley airport
+chapleau
+chapleau airport
+meadow lake
+meadow lake airport
+lloydminster
+lloydminster airport
+leaf rapids
+leaf rapids airport
+barrie
+barrielake simcoe regional airport
+alert
+alert airport
+kelowna
+kelowna international airport
+mayo
+mayo airport
+matane
+matane airport
+manitouwadge
+manitouwadge airport
+moose jaw
+moose jaw air vice marshal c m mcewen airport
+charlevoix
+charlevoix airport
+fort mcmurray
+fort mcmurray airport
+moosonee
+moosonee airport
+chibougamau
+chapais airport
+montreal international mirabel airport
+natashquan
+natashquan airport
+gatineau
+ottawa  gatineau airport
+langley
+langley airport
+points north landing
+points north landing airport
+matagami
+matagami airport
+ekati
+ekati airport
+cold lake
+cfb cold lake
+high level
+high level airport
+oshawa
+oshawa executive airport
+rainbow lake
+rainbow lake airport
+owen sound
+owen sound  billy bishop regional airport
+ottawa
+ottawa macdonaldcartier international airport
+prince albert
+prince albert glass field
+port hawkesbury
+port hawkesbury airport
+peace river
+peace river airport
+portage la prairie
+portagelaprairie  southport airport
+pickle lake
+pickle lake airport
+portmenier
+portmenier airport
+peterborough
+peterborough municipal airport
+prince rupert
+prince rupert airport
+powell river
+powell river airport
+puvirnituq
+puvirnituq airport
+fort chipewyan
+fort chipewyan airport
+burns lake
+burns lake airport
+gravenhurst
+muskoka airport
+quebec
+quebec jean lesage international airport
+the pas
+the pas airport
+springbrook
+red deer regional airport
+windsor
+windsor airport
+watson lake
+watson lake airport
+yarmouth
+yarmouth airport
+kenora
+kenora airport
+lethbridge
+lethbridge county airport
+moncton
+greater moncton romo leblanc international airport
+nakina
+nakina airport
+comox
+comox valley airport  cfb comox
+regina
+regina international airport
+thomas
+st thomas
+thomas municipal airport
+st thomas municipal airport
+thunder bay
+thunder bay airport
+grande prairie
+grande prairie airport
+yorkton
+yorkton municipal airport
+north battleford
+north battleford airport
+gander
+gander international airport  cfb gander
+sydney
+sydney  ja douglas mccurdy airport
+quesnel
+quesnel airport
+resolute bay
+resolute bay airport
+rivireduloup
+rivireduloup airport
+roberval
+roberval airport
+red lake
+red lake airport
+ottawa  rockcliffe airport
+troisrivires
+troisrivires airport
+rankin inlet
+rankin inlet airport
+revelstoke
+revelstoke airport
+sudbury
+sudbury airport
+sherbrooke
+sherbrooke airport
+stony rapids
+stony rapids airport
+smiths falls
+smiths fallsmontague russ beach airport
+john
+saint john
+john airport
+saint john airport
+saintlonard
+saintlonard airport
+fort smith
+fort smith airport
+niagaraonthelake
+niagara district airport
+marathon
+marathon airport
+slemon park
+summerside airport
+pembroke
+pembroke airport
+alma
+alma airport
+thompson
+thompson airport
+trenton
+cfb trenton
+timmins
+timminsvictor m power
+toronto
+billy bishop toronto city centre airport
+montreal  pierre elliott trudeau international airport
+sanirajak
+hall beach airport
+rouynnoranda
+rouyn noranda airport
+bonaventure
+bonaventure airport
+la ronge
+la ronge airport
+vernon
+vernon regional airport
+valdor
+valdor airport
+kuujjuaq
+kuujjuaq airport
+norman wells
+norman wells airport
+vancouver
+vancouver international airport
+wiarton
+wiarton airport
+winnipeg
+winnipeg  james armstrong richardson international airport
+wabush
+wabush airport
+williams lake
+williams lake airport
+wrigley
+wrigley airport
+cranbrook
+cranbrookcanadian rockies international airport
+saskatoon
+saskatoon john g diefenbaker international airport
+medicine hat
+medicine hat regional airport
+fort saint john
+fort st john  north peace regional airport
+rimouski
+rimouski airport
+sioux lookout
+sioux lookout airport
+beaver creek
+beaver creek airport
+earlton
+earlton timiskaming regional airport
+prince george
+prince george airport
+terrace
+northwest regional airport terracekitimat
+london
+london airport
+abbotsford
+abbotsford international airport
+whitehorse
+whitehorse  erik nielsen international airport
+wawa
+wawa airport
+north bay
+north bay jack garland airport
+calgary
+calgary international airport
+smithers
+smithers airport
+fort nelson
+fort nelson airport
+penticton
+penticton airport
+charlottetown
+charlottetown airport
+victoria
+victoria international airport
+lynn lake
+lynn lake airport
+swift current
+swift current airport
+churchill
+churchill airport
+goose bay
+goose bay airport
+johns
+st johns
+st johns international airport
+johns international airport
+kapuskasing
+kapuskasing airport
+armstrong
+armstrong airport
+montjoli
+mont joli airport
+toronto lester b pearson international airport
+gore bay
+gore bay manitoulin airport
+yellowknife
+yellowknife international airport
+slave lake
+slave lake airport
+sandspit
+sandspit airport
+sarnia
+chris hadfield airport
+coral harbour
+coral harbour airport
+port hardy
+port hardy airport
+whitecourt
+whitecourt airport
+septles
+septles airport
+teslin
+teslin airport
+greenwood
+cfb greenwood
+salmon arm
+shuswap regional airport
+delta
+boundary bay airport
+south tetagouche
+bathurst airport
+bromont
+bromont roland dsourdy airport
+kelsey
+kelsey airport
+faro
+faro airport
+grand forks
+grand forks airport
+jenpeg
+jenpeg airport
+swan river
+swan river airport
+thicket portage
+thicket portage airport
+pikwitonei
+pikwitonei airport
+masset
+masset airport
+pincher creek
+pincher creek airport
+sandy lake
+sandy lake airport
+stewart
+stewart airport
+ignace
+ignace municipal airport
+blida
+blida airport
+ouled sidi brahim
+bou saada airport
+bjaa
+soummamabane ramdane airport
+algiers
+houari boumediene airport
+djanet
+djanet inedbirene airport
+illizi
+illizi takhamalt airport
+stif
+ain arnat airport
+tamanrasset
+aguenar  hadj bey akhamok airport
+tahir
+jijel ferhat abbas airport
+mecheria
+mecheria airport
+annaba
+annaba rabah bitat airport
+constantine
+mohamed boudiaf international airport
+tbessi
+cheikh larbi tbessi airport
+batna
+batna mostefa ben boulaid airport
+hassi rmel
+hassi rmel airport
+tiaret
+abdelhafid boussouf bou chekif airport
+tindouf
+tindouf airport
+chlef
+chlef aboubakr belkaid international airport
+tafraoui
+oran tafraoui airport
+zenata
+zenata  messali el hadj airport
+essnia
+oran essnia ahmed ben bella international airport
+bchar
+bchar boudghene ben ali lotfi airport
+ghriss
+ghriss airport
+adrar
+touat cheikh sidi mohamed belkebir airport
+biskra
+biskra  mohamed khider airport
+el menia
+el golea airport
+el atteuf
+noumrat  moufdi zakaria airport
+hassi messaoud
+hassi messaoudoued irara krim belkacem airport
+in salah
+in salah airport
+touggourt
+touggourt sidi madhi airport
+laghouat
+laghouat  molay ahmed medeghri airport
+guemar
+guemar airport
+timimoun
+timimoun airport
+ouargla
+ain beida airport
+in amnas
+zarzaitine  in amnas airport
+cotonou
+cadjehoun airport
+ouagadougou
+ouagadougou airport
+bobo dioulasso
+bobo dioulasso airport
+accra
+kotoka international airport
+tamale
+tamale airport
+kumasi
+kumasi airport
+sunyani
+sunyani airport
+sekonditakoradi
+takoradi airport
+abidjan
+flixhouphoutboigny international airport
+bouak
+bouak airport
+
+daloa airport
+korhogo
+korhogo airport
+man airport
+san pedro airport
+yamoussoukro
+yamoussoukro airport
+abuja
+nnamdi azikiwe international airport
+uyo
+akwa ibom international airport
+akure
+akure airport
+asaba
+asaba international airport
+bauchi
+sir abubakar tafawa balewa international airport
+benin
+benin airport
+calabar
+margaret ekpo international airport
+enegu
+akanu ibiam international airport
+gombe
+gombe lawanti international airport
+gusau
+gusau airport
+ibadan
+ibadan airport
+ilorin
+ilorin international airport
+owerri
+sam mbakwe international airport
+jos
+yakubu gowon airport
+kaduna
+kaduna airport
+kano
+mallam aminu international airport
+maiduguri
+maiduguri international airport
+makurdi
+makurdi airport
+lagos
+murtala muhammed international airport
+minna
+minna airport
+port harcourt
+port harcourt international airport
+sokoto
+sadiq abubakar iii international airport
+okpe
+warri airport
+yola
+yola airport
+zaria
+zaria airport
+maradi
+maradi airport
+niamey
+diori hamani international airport
+tahoua
+tahoua airport
+agadez
+mano dayak international airport
+zinder
+zinder airport
+tabarka
+tabarkaan draham international airport
+monastir
+monastir habib bourguiba international airport
+enfidha
+enfidha  hammamet international airport
+tunis
+tunis carthage international airport
+gafsa
+gafsa ksar international airport
+gabs
+gabs matmata international airport
+mellita
+djerba zarzis international airport
+el borma
+el borma airport
+sfax
+sfax thyna international airport
+tozeur
+tozeur nefta international airport
+niamtougou
+niamtougou international airport
+lom
+lomtokoin international airport
+antwerp
+antwerp international airport deurne
+zaventem
+brussels airport
+charleroi
+brussels south charleroi airport
+wevelgem
+flanders international airport kortrijkwevelgem
+grcehollogne
+lige airport
+oostende
+oostendebrugge international airport
+nobitz
+leipzigaltenburg airport
+zirchow
+heringsdorf airport
+trollenhagen
+neubrandenburg trollenhagen airport
+berlin
+berlin brandenburg airport
+dresden
+dresden airport
+erfurt
+erfurtweimar airport
+frankfurt am main
+frankfurt airport
+greven
+mnster osnabrck airport
+hamburg
+hamburg helmut schmidt airport
+kln cologne
+cologne bonn airport
+dsseldorf
+dsseldorf airport
+munich
+munich airport
+nuremberg
+nuremberg airport
+schkeuditz
+leipzighalle airport
+saarbrcken
+saarbrcken airport
+stuttgart
+stuttgart airport
+hannover
+hannover airport
+bremen
+bremen airport
+frankfurt am main lautzenhausen
+frankfurthahn airport
+mannheim
+mannheimcity airport
+hrselberghainich
+eisenachkindel airport
+burbach
+siegerland airport
+hamburgfinkenwerder airport
+kiel
+kielholtenau airport
+lbeck
+lbeck blankensee airport
+memmingen
+memmingen allgau airport
+mnchengladbach
+mnchengladbach airport
+bren
+paderborn lippstadt airport
+weeze
+weeze airport
+dortmund
+dortmund airport
+augsburg
+augsburg airport
+weling
+oberpfaffenhofen airport
+friedrichshafen
+friedrichshafen airport
+bindlach
+bayreuth airport
+hof
+hofplauen airport
+rheinmnster
+karlsruhe badenbaden airport
+lahrschwarzwald
+lahr airport
+braunschweig
+braunschweigwolfsburg airport
+calden
+kassel airport
+sylt
+westerland sylt airport
+krdla
+krdla airport
+kuressaare
+kuressaare airport
+prnu
+prnu airport
+berenice troglodytica
+berenice international airport  banas cape air base
+tallinn
+lennart meri tallinn airport
+reola
+tartu airport
+enontekio
+enontekio airport
+jms
+halli airport
+helsinki vantaa
+helsinki vantaa airport
+kitee
+kitee airport
+ivalo
+ivalo airport
+joensuu
+joensuu airport
+jyvskyln maalaiskunta
+jyvskyl airport
+kauhava
+kauhava airfield
+kemi  tornio
+kemitornio airport
+kajaani
+kajaani airport
+kauhajoki
+kauhajoki airfield
+kokkola  kruunupyy
+kokkolapietarsaari airport
+kuusamo
+kuusamo airport
+kittil
+kittil airport
+kuopio  siilinjrvi
+kuopio airport
+lappeenranta
+lappeenranta airport
+mariehamn
+mariehamn airport
+mikkeli
+mikkeli airport
+oulu  oulunsalo
+oulu airport
+pori
+pori airport
+rovaniemi
+rovaniemi airport
+savonlinna
+savonlinna airport
+seinjoki  ilmajoki
+seinjoki airport
+sodankyla
+sodankyla airport
+tampere  pirkkala
+tamperepirkkala airport
+turku
+turku airport
+utti  valkeala
+utti air base
+vaasa
+vaasa airport
+varkaus  joroinen
+varkaus airport
+ylivieska
+ylivieska airfield
+belfast
+belfast international airport
+enniskillen
+enniskillenst angelo airport
+george best belfast city airport
+derry
+derry airport
+city of derry airport
+birmingham west midlands
+birmingham airport
+coventry west midlands
+coventry airport
+staverton
+gloucestershire airport
+nottingham
+nottingham city airport
+manchester greater manchester
+manchester airport
+yeovil somerset
+rnas yeovilton
+campbeltown
+campbeltown airport
+eday
+eday airport
+haverfordwest
+haverfordwest airport
+cardiff
+cardiff international airport
+swansea
+swansea airport
+bristol
+bristol airport
+liverpool
+liverpool john lennon airport
+luton bedfordshire
+london luton airport
+bournemouth
+bournemouth airport
+southampton
+southampton airport
+newquay
+cornwall airport newquay
+saint anne
+anne
+alderney airport
+peter port
+saint peter port
+guernsey airport
+helier
+saint helier
+jersey airport
+brighton east sussex
+brighton city airport
+london biggin hill airport
+london gatwick airport
+london city airport
+farnborough hampshire
+farnborough airport
+camberley surrey
+blackbushe airport
+london heathrow airport
+southendonsea essex
+london southend airport
+romney marsh kent
+lydd london ashford airport
+carlisle
+carlisle lake district airport
+blackpool
+blackpool airport
+grimsby lincolnshire
+humberside airport
+barrowinfurness
+barrow walney island airport
+leeds west yorkshire
+leeds bradford airport
+warton
+warton aerodrome
+broughton
+hawarden airport
+castletown
+isle of man airport
+newcastle upon tyne tyne and wear
+newcastle international airport
+darlington durham
+teesside international airport
+east midlands airport
+angelsey
+anglesey airport
+orkney islands
+kirkwall airport
+lerwick shetland
+sumburgh airport
+wick
+wick john ogroats airport
+aberdeen
+aberdeen international airport
+inverness
+inverness airport
+glasgow
+glasgow airport
+edinburgh
+edinburgh airport
+isle of islay argyll and bute
+islay airport
+prestwick south ayrshire
+glasgow prestwick airport
+balivanich
+benbecula airport
+dundee
+dundee airport
+stornoway western isles
+stornoway airport
+eoligarry
+barra airport
+balemartine
+tiree airport
+leuchars fife
+leuchars station airfield
+lossiemouth
+raf lossiemouth
+cambridge cambridgeshire
+cambridge city airport
+norwich norfolk
+norwich airport
+london stansted airport
+exeter devon
+exeter international airport
+kidlington oxfordshire
+london oxford airport
+wallingford oxfordshire
+raf benson
+brandon suffolk
+raf lakenheath
+bury saint edmunds suffolk
+raf mildenhall
+fairford gloucestershire
+raf fairford
+carterton oxfordshire
+raf brize norton
+hook hampshire
+raf odiham
+raf northolt
+lincoln lincolnshire
+raf coningsby
+raf honington
+raf waddington
+kings lynn norfolk
+raf marham
+mount pleasant
+mount pleasant airport
+amsterdam
+amsterdam airport schiphol
+maastricht
+maastricht aachen airport
+eindhoven
+eindhoven airport
+groningen
+groningen airport eelde
+rijen
+gilze rijen air base
+den helder
+de kooy airfield  den helder naval air station
+lelystad
+lelystad airport
+leeuwarden
+leeuwarden air base
+rotterdam
+rotterdam the hague airport
+enschede
+twente airport
+uden
+volkel air base
+hoogerheide
+woensdrecht air base
+cork
+cork airport
+donegal
+donegal airport
+dublin
+dublin airport
+charlestown
+ireland west knock airport
+farranfore
+kerry airport
+shannon
+shannon airport
+sligo
+sligo airport
+waterford
+waterford airport
+aarhus
+aarhus airport
+billund
+billund airport
+copenhagen
+copenhagen kastrup airport
+esbjerg
+esbjerg airport
+karup
+midtjyllands airport  air base karup
+rdby
+lolland falster maribo airport
+odense
+odense hans christian andersen airport
+roskilde
+copenhagen roskilde airport
+rnne
+bornholm airport
+snderborg
+snderborg airport
+sindal
+sindal airport
+vojens
+skrydstrup air base
+skive
+skive airport
+thisted
+thisted airport
+vgar
+vgar airport
+skjern
+stauning vestjylland  airport
+aalborg
+aalborg airport
+luxembourg
+luxembourgfindel international airport
+lesund
+lesund airport vigra
+andenes
+andya airport andenes
+alta
+alta airport
+brnny
+brnnysund airport brnny
+bod
+bod airport
+bergen
+bergen airport flesland
+btsfjord
+btsfjord airport
+berlevg
+berlevg airport
+kjevik
+kristiansand airport kjevik
+mlselv
+bardufoss airport
+evenes
+harstadnarvik airport evenes
+fagernes
+fagernes airport leirin
+flor
+flor airport
+oslo gardermoen
+oslo airport gardermoen
+karmy
+haugesund airport karmy
+hammerfest
+hammerfest airport
+honningsvg
+honningsvg airport valan
+kvernberget
+kristiansund airport kvernberget
+kirkenes
+kirkenes airport hybuktmoen
+leknes
+leknes airport
+mehamn
+mehamn airport
+r
+molde airport r
+mosjen
+mosjen airport kjrstad
+lakselv
+lakselv airport banak
+notodden
+notodden airport
+rland
+rland airport
+rsta
+rstavolda airport hovden
+mo i rana
+mo i rana airport rssvoll
+rrvik
+rrvik airport ryum
+rros
+rros airport
+oslo
+moss airport rygge
+longyearbyen
+svalbard airport longyear
+svolvr
+svolvr airport helle
+hadsel
+stokmarknes airport skagen
+geiteryggen
+skien airport
+leirvik
+stord airport srstokken
+srkjosen
+srkjosen airport
+vard
+vard airport svartnes
+alstahaug
+sandnessjen airport stokka
+troms
+troms airport langnes
+torp
+sandefjord airport torp
+trondheim
+trondheim airport vrnes
+vads
+vads airport
+stavanger
+stavanger airport sola
+bydgoszcz
+bydgoszcz ignacy jan paderewski airport
+gdask
+gdask lech wasa airport
+balice
+krakw john paul ii international airport
+katowice
+katowice wojciech korfanty international airport
+lublin
+lublin airport
+d
+d wadysaw reymont airport
+nowy dwr mazowiecki
+modlin airport
+pozna
+poznaawica airport
+radom
+warsaw radom airport
+jasionka
+rzeszwjasionka airport
+glewice
+solidarity szczecingoleniw airport
+szymany
+olsztynmazury airport
+warsaw
+warsaw chopin airport
+wrocaw
+copernicus wrocaw airport
+nowe kramsko
+zielona grababimost airport
+ronneby
+ronneby airport
+gteborg
+gteborg landvetter airport
+jnkping
+jnkping airport
+sve airport
+skvde
+skvde airport
+trollhttan
+trollhttanvnersborg airport
+karlskoga
+karlskoga airport
+mora
+mora airport
+nykping
+stockholm skavsta airport
+malungslen
+scandinavian mountains airport
+kristianstad
+kristianstad airport
+kalmar
+kalmar airport
+malm
+malm sturup airport
+halmstad
+halmstad airport
+vxj
+vxj kronoberg airport
+gllivare
+gllivare airport
+nyland
+kramforssollefte hga kusten airport
+lycksele
+lycksele airport
+sundsvall hrnsand
+sundsvallhrnsand airport
+rnskldsvik
+rnskldsvik airport
+kiruna
+kiruna airport
+skellefte
+skellefte airport
+ume
+ume airport
+vilhelmina
+vilhelmina south lapland airport
+arvidsjaur
+arvidsjaur airport
+sderhamn
+sderhamn airport
+stersund
+re stersund airport
+rebro
+rebro airport
+karlstad
+karlstad airport
+stockholm  vsters
+stockholm vsters airport
+lule
+lule airport
+stockholm
+stockholmarlanda airport
+stockholmbromma airport
+borlange
+dala airport
+gvle  sandviken
+gvle sandviken airport
+linkping
+linkping city airport
+norrkping
+norrkping airport
+torsby
+torsby airport
+eskilstuna
+eskilstuna airport
+visby
+visby airport
+ngelholm
+ngelholmhelsingborg airport
+storuman
+storuman airport
+trier
+spangdahlem air base
+ramsteinmiesenbach
+ramstein air base
+fritzlar
+fritzlar army airfield
+wurster nordseekste
+seaairport cuxhavennordholz  nordholz naval airbase
+geilenkirchen
+geilenkirchen air base
+laage
+rostocklaage airport
+jagel
+schleswig air base
+wiesbaden
+wiesbaden army airfield
+manching
+ingolstadt manching airport
+liepja
+liepja international airport
+riga
+riga international airport
+kaunas
+kaunas international airport
+palanga
+palanga international airport
+panevys
+panevys air base
+iauliai
+iauliai international airport
+vilnius
+vilnius international airport
+alexander bay
+alexander bay airport
+aggeneys
+aggeneys airport
+bisho
+bisho airport
+bloemfontain
+bram fischer international airport
+cape town
+cape town international airport
+east london
+king phalo airport
+ficksburg
+ficksburg sentraoes airport
+midrand
+grand central airport
+george
+george airport
+johannesburg
+rand airport
+harrismith
+harrismith airport
+klerksdorp
+p c pelser airport
+kimberley
+kimberley airport
+mpumalanga
+kruger mpumalanga international airport
+kuruman
+johan pienaar airport
+kleinsee
+kleinsee airport
+lanseria international airport
+lime acres
+lime acres finsch mine airport
+durban
+king shaka international airport
+langebaanweg
+langebaanweg airport
+ladysmith
+ladysmith airport
+malamala
+malamala airport
+margate
+margate airport
+mafeking
+mmabatho international airport
+mkuze
+mkuze airport
+newcastle
+newcastle airport
+oudtshoorn
+oudtshoorn airport
+or tambo international airport
+gqeberha port elizabeth
+chief dawid stuurman international airport
+plettenberg bay
+plettenberg bay airport
+phalaborwa
+hendrik van eck airport
+port st johns
+port st johns airport
+pietermaritzburg
+pietermaritzburg airport
+polokwane
+polokwane international airport
+potchefstroom
+potchefstroom airport
+queenstown
+queenstown airport
+richards bay
+richards bay airport
+robertson
+robertson airport
+springbok
+springbok airport
+secunda
+secunda airport
+sishen
+sishen airport
+skukuza
+skukuza airport
+tzaneen
+tzaneen airport
+ulundi
+prince mangosuthu buthelezi airport
+upington
+pierre van ryneveld airport
+mthatha
+k d matanzima airport
+vyrburg
+vryburg airport
+virginia airport
+vredendal
+vredendal airport
+pretoria
+wonderboom airport
+waterkloof air force base
+francistown
+p g matante intl
+jwaneng
+jwaneng airport
+kasane
+kasane airport
+maun
+maun airport
+gaborone
+sir seretse khama international airport
+sowa
+sua pan airport
+selebi phikwe
+selebi phikwe airport
+brazzaville
+mayamaya airport
+oyo
+oyo ollombo airport
+owando
+owando airport
+ouesso airport
+dolisie
+ngot nzoungou airport
+pointe noire
+antonio agostinhoneto international airport
+manzini
+matsapha airport
+mpaka
+king mswati iii international airport
+bangui
+bangui mpoko international airport
+berbrati
+berbrati airport
+bata
+bata airport
+malabo
+malabo airport
+cat hill
+raf ascension island
+plaine magnien
+sir seewoosagur ramgoolam international airport
+port mathurin
+sir charles gaetan duval airport
+diego garcia
+diego garcia naval support facility
+tiko
+tiko airport
+douala
+douala international airport
+maroua
+salak airport
+foumban
+foumban nkounja airport
+ngaoundr
+ngaoundr airport
+garoua
+garoua international airport
+bafoussam
+bafoussam airport
+bamenda
+bamenda airport
+yaound
+yaound airport
+yaound nsimalen international airport
+chingola
+kasompe airport
+livingstone
+harry mwanga nkumbula international airport
+lusaka
+kenneth kaunda international airport
+mfuwe
+mfuwe airport
+mongu
+mongu airport
+ndola
+simon mwansa kapwepwe international airport
+kitwe
+southdowns airport
+moroni
+prince said ibrahim international airport
+fomboni
+mohli bandar es eslam airport
+ouani
+ouani airport
+dzaoudzi
+dzaoudzi pamandzi international airport
+saintemarie
+roland garros airport
+saintpierre
+pierrefonds airport
+antananarivo
+ivato airport
+miandrivazo
+miandrivazo airport
+vohilava
+sainte marie airport
+toamasina
+toamasina ambalamanasy airport
+morondava
+morondava airport
+antisiranana
+arrachart airport
+mananara nord
+mananara nord airport
+andapa airport
+antsirabe
+antsirabe airport
+analalava
+analalava airport
+mahajanga
+amborovy airport
+nosy be
+fascene airport
+besalampy
+besalampy airport
+maroantsetra
+maroantsetra airport
+sambava
+sambava airport
+vohemar
+vohemar airport
+antsohihy
+ambalabe airport
+tlanaro
+tlanaro airport
+fianarantsoa
+fianarantsoa airport
+manakara
+manakara airport
+mananjary
+mananjary airport
+morombe
+morombe airport
+toliara
+toliara airport
+mbanza congo
+mbanza congo airport
+benguela
+benguela th of september airport
+luanda colo e bengo
+dr antonio agostinho neto international airport
+cabinda
+cabinda airport
+catumbela
+catumbela airport
+chitato
+dundo airport
+ngiva
+ngjiva pereira airport
+huambo
+nova lisboa airport
+kuito
+kuito airport
+luanda
+quatro de fevereiro international airport
+malanje
+malanje airport
+menongue
+menongue airport
+momedes
+welwitschia mirabilis international airport
+negage
+negage airport
+port amboim
+porto amboim airport
+saurimo
+saurimo airport
+soyo
+soyo airport
+sumbe
+sumbe airport
+lubango
+lubango airport
+luena
+luena airport
+uige
+uige airport
+xangongo
+xangongo airport
+koulamoutou
+koulamoutou mabimbi airport
+mouila
+mouilla ville airport
+oyem
+oyem airport
+okondja
+okondja airport
+lambarene
+lambarene airport
+bitam
+bitam airport
+port gentil
+port gentil airport
+omboue
+omboue hospital airport
+makokou
+makokou airport
+libreville
+libreville leon mba international airport
+franceville
+mvengue el hadj omar bongo ondimba international airport
+so tom  prncipe
+principe airport
+so tom
+so tom international airport
+beira
+beira airport
+chimoio
+chimoio airport
+inhambane
+inhambane airport
+lichinga
+lichinga airport
+maputo
+maputo airport
+mueda
+mueda airport
+mocmboa da praia
+mocmboa da praia airport
+nampula
+nampula airport
+pemba
+pemba airport
+quelimane
+quelimane airport
+tete
+chingozi airport
+vilanculo
+vilankulo airport
+mahe island
+seychelles international airport
+praslin island
+praslin island airport
+abeche
+abeche airport
+moundou
+moundou airport
+ndjamena
+ndjamena international airport
+fayalargeau
+fayalargeau airport
+bulawayo
+joshua mqabuko nkomo international airport
+chiredzi
+buffalo range airport
+victoria falls
+victoria falls international airport
+harare
+robert gabriel mugabe international airport
+kariba
+kariba international airport
+masvingo
+masvingo international airport
+gweru
+gweru  thornhill air base
+gwayi river farms
+hwange national park airport
+blantyre
+chileka international airport
+dwangwa
+dwangwa airport
+karonga
+karonga airport
+lumbadzi
+kamuzu international airport
+mzuzu
+mzuzu airport
+mazenod
+moshoeshoe i international airport
+arandis
+arandis airport
+grootfontein
+grootfontein airport
+mpacha
+katima mulilo airport
+keetmanshoop
+keetmanshoop airport
+luderitz
+luderitz airport
+ondangwa
+ondangwa airport
+oranjemund
+oranjemund airport
+rundu
+rundu airport
+tsumeb
+tsumeb airport
+rooikop
+walvis bay airport
+windhoek
+eros airport
+hosea kutako international airport
+kinshasa
+ndjili international airport
+ndolo
+ndolo airport
+bandundu
+bandundu airport
+kikwit
+kikwit airport
+mbandaka
+mbandaka airport
+gbadolite
+gbadolite airport
+gemena
+gemena airport
+lisala
+lisala airport
+kisangani
+bangoka international airport
+isiro
+matari airport
+bunia
+bunia airport
+buta
+buta zega airport
+kamakombe
+bukavu kavumu airport
+goma
+goma international airport
+kindu
+kindu airport
+lubumbashi
+lubumbashi international airport
+kolwezi
+kolwezi airport
+kalemie
+kalemie airport
+kananga
+kananga airport
+mbuji mayi
+mbuji mayi airport
+bamako
+modibo keita international airport
+gao airport
+kayes dag dag airport
+svar
+mopti amboddjo international airport
+timbuktu
+timbuktu airport
+yundum
+banjul international airport
+el matorral
+fuerteventura airport
+el hierro island
+el hierro airport
+sta cruz de la palma la palma island
+la palma airport
+gran canaria island
+gran canaria airport
+san bartolom
+csar manriquelanzarote airport
+tenerife
+tenerife sur airport
+tenerife norteciudad de la laguna airport
+melilla
+melilla airport
+bo
+bo airport
+kenema
+kenema airport
+freetown lungitown
+lungi international airport
+yengema
+yengema airport
+bissau
+osvaldo vieira international airport
+monrovia
+spriggs payne airport
+roberts international airport
+agadir temsia
+al massira airport
+tan tan
+tan tan airport
+zagora
+zagora airport
+bouarfa
+bouarfa airport
+sass
+fes sass international airport
+errachidia
+moulay ali cherif airport
+meknes
+bassatine airport
+ahl angad
+oujda angads airport
+smara
+smara airport
+rabat
+rabatsal airport
+dakhla
+dakhla airport
+essaouira
+essaouiramogador airport
+el aain
+hassan i airport
+casablanca
+mohammed v international airport
+al aaroui
+nador al aaroui international airport
+marrakech
+menara airport
+kenitra
+kenitra air base
+ouarzazate
+ouarzazate airport
+al hoceima
+cherif al idrissi airport
+ttouan
+sania ramel airport
+tangier
+tangier ibn battuta airport
+dakar
+blaise diagne international airport
+ziguinchor
+ziguinchor airport
+cap skirring
+cap skirring airport
+kaolack
+kaolack airport
+lopold sdar senghor international airport
+ouro sogui
+ouro sogui airport
+louis
+saint louis
+saint louis airport
+louis airport
+bakel
+bakel airport
+kdougou
+kdougou airport
+tambacounda
+tambacounda airport
+nouakchott
+nouakchottoumtounsy international airport
+atar
+atar international airport
+nouadhibou
+nouadhibou international airport
+conakry
+conakry international airport
+espargos
+amlcar cabral international airport
+rabil
+rabil airport
+vila do maio
+maio airport
+praia
+nelson mandela international airport
+preguia
+preguia airport
+so pedro
+so pedro airport
+addis ababa
+addis ababa bole international airport
+arba minch
+arba minch airport
+axum
+axum airport
+bahir dar
+bahir dar airport
+dire dawa
+aba tenna dejazmach yilma international airport
+gambela
+gambela airport
+azezo
+gondar airport
+gode
+gode airport
+debre zeyit
+harar meda airport
+jijiga
+wilwal international airport
+jimma
+jimma airport
+kebri dahar
+kebri dahar airport
+hawassa
+hawassa international airport
+mekele
+alula aba nega airport
+asosa
+asosa airport
+bujumbura
+bujumbura melchior ndadaye international airport
+hargeisa
+egal international airport
+berbera
+berbera airport
+kismayo
+kismayo airport
+mogadishu
+aden adde international airport
+djibouti city
+djiboutiambouli airport
+el hassana
+bardawil international airport
+el alamein
+el alamein international airport
+el arish
+el arish international airport
+asyut
+asyut international airport
+alexandria
+borj el arab international airport
+abu simbel
+abu simbel airport
+cairo
+cairo international airport
+new cairo
+capital international airport
+hurghada
+hurghada international airport
+el jora
+el jora airport
+luxor
+luxor international airport
+marsa alam
+marsa alam international airport
+marsa matruh
+marsa matruh international airport
+port said
+port said international airport
+catherine
+saint catherine
+saint catherine international airport
+catherine international airport
+suhaj
+suhaj mubarak international airport
+sharm el sheikh
+sharm el sheikh international airport
+aswan
+aswan international airport
+al jiza
+sphinx international airport
+taba
+taba international airport
+asmara
+asmara international airport
+massawa
+massawa international airport
+assab
+assab international airport
+juba
+juba international airport
+amboseli national park
+amboseli airport
+eldoret
+eldoret international airport
+nairobi
+jomo kenyatta international airport
+kisumu
+kisumu airport
+kitale
+kitale airport
+lokichogio
+lokichogio airport
+lodwar
+lodwar airport
+lamu
+manda airport
+malindi
+malindi airport
+mombasa
+moi international airport
+masai mara
+mara serena lodge airstrip
+nanyuki
+nanyuki airport
+nairobi wilson airport
+wajir
+wajir airport
+sirt
+sirt international airport  ghardabiya airbase
+ghat
+ghat airport
+kufra
+kufra airport
+benina
+benina international airport
+tripoli
+mitiga international airport
+al albraq
+al abraq international airport
+sabha
+sabha airport
+marsa al brega
+marsa al brega airport
+ghadames
+ghadames east airport
+gisenyi
+gisenyi airport
+kigali
+kigali international airport
+kamembe
+kamembe airport
+dongola
+dongola airport
+el fasher
+el fasher airport
+kassala
+kassala airport
+merowe
+merowe airport
+nyala
+nyala airport
+elobeid
+elobeid airport
+port sudan
+port sudan new international airport
+khartoum
+khartoum international airport
+malakal
+malakal airport
+wau
+wau airport
+arusha
+arusha airport
+dar es salaam
+julius nyerere international airport
+dodoma
+dodoma airport
+mbeya
+songwe airport
+nduli
+iringa airport
+kilimanjaro international airport
+lake manyara national park
+lake manyara airport
+mtwara
+mtwara airport
+mwanza
+mwanza airport
+chake chake
+tanga
+tanga airport
+zanzibar
+abeid amani karume international airport
+arua
+arua airport
+kampala
+entebbe international airport
+gulu
+gulu airport
+soroti
+soroti airport
+chengdu jintang
+chengdu huaizhou airport
+indigo bay lodge airport
+h ch minh
+tylekeonhacaibuzz
+kediri
+dhoho international airport
+sugapa
+bilogaisugapa airport
+faizabad
+ayodhya airport
+navi mumbai
+navi mumbai international airport
+shimoga
+rashtrakavi kuvempu airport
+hollongi
+itanagar donyi polo hollongi airport
+boulder city
+boulder city municipal airport
+mesquite
+mesquite international airport
+allentown
+lehigh valley international airport
+abilene
+abilene regional airport
+albuquerque
+albuquerque international sunport
+aberdeen regional airport
+albany
+southwest georgia regional airport
+nantucket
+nantucket memorial airport
+waco
+waco regional airport
+arcataeureka
+california redwood coasthumboldt county airport
+atlantic city
+atlantic city international airport
+ada
+ada regional airport
+camp springs
+joint base andrews
+alexandria international airport
+fort worth
+perot fieldfort worth alliance airport
+pittsburgh
+allegheny county airport
+augusta
+augusta regional at bush field
+athens
+athens ben epps airport
+alliance
+alliance municipal airport
+akron
+akron fulton international airport
+albany international airport
+alice
+alice international airport
+alamogordo
+alamogordo white sands regional airport
+altonst louis
+st louis regional airport
+louis regional airport
+waterloo
+waterloo regional airport
+alamosa
+san luis valley regional airportbergman field
+walla walla
+walla walla regional airport
+amarillo
+rick husband amarillo international airport
+anniston
+anniston regional airport
+anderson
+anderson regional airport
+altoona
+altoona blair county airport
+denver
+centennial airport
+naples
+naples municipal airport
+phillips army air field
+alpena
+alpena county regional airport
+iberia
+new iberia
+acadiana regional airport
+watertown
+watertown international airport
+aspen
+aspenpitkin county airport sardy field
+astoria
+astoria regional airport
+atlanta
+hartsfield jackson atlanta international airport
+appleton
+appleton international airport
+watertown regional airport
+augusta state airport
+austin
+austin bergstrom international airport
+wausau
+wausau downtown airport
+asheville
+asheville regional airport
+wilkesbarrescranton
+wilkes barre scranton international airport
+chandler field
+kalamazoo
+kalamazoo battle creek international airport
+beale air force base
+bossier city
+barksdale air force base
+westfield
+westfieldbarnes regional airport
+columbus
+columbus municipal airport
+brady
+curtis field
+branson
+branson airport
+bryce canyon
+bryce canyon airport
+boca raton
+boca raton airport
+baudette
+baudette international airport
+hartford
+bradley international airport
+bridgeport
+igor i sikorsky memorial airport
+bedford
+laurence g hanscom field
+bradford
+bradford regional airport
+scottsbluff
+western neb rgnlwilliam b heilig airport
+seattle
+boeing field king county international airport
+bakersfield
+meadows field
+mobile
+mobile downtown airport
+binghamton
+greater binghamtonedwin a link field
+bangor
+bangor international airport
+bar harbor
+hancock countybar harbor airport
+birmingham
+birminghamshuttlesworth international airport
+fort blissel paso
+biggs army air field fort bliss
+bishop
+eastern sierra regional airport
+billings
+billings logan international airport
+bismarck
+bismarck municipal airport
+biloxi
+keesler air force base
+rocky mountain metropolitan airport
+bemidji
+bemidji regional airport
+baker city
+baker city municipal airport
+aurora
+buckley space force base
+cleveland
+burke lakefront airport
+beaver
+raleigh county memorial airport
+bluefield
+mercer county airport
+blythe
+blythe airport
+bellingham
+bellingham international airport
+belleville
+scott afbmidamerica airport
+bloomington
+monroe county airport
+bloomingtonnormal
+central illinois regional airport at bloomingtonnormal
+nashville
+nashville international airport
+burns
+burns municipal airport
+boise
+boise air terminalgowen field
+boston
+logan international airport
+big piney
+miley memorial field
+mountain home
+ozark regional airport
+beaumontport arthur
+jack brooks regional airport
+brunswick
+brunswick golden isles airport
+brainerd
+brainerd lakes regional airport
+burlington
+southeast iowa regional airport
+brownsville
+brownsville south padre island international airport
+battle creek
+battle creek executive airport at kellogg field
+butte
+bert mooney airport
+baton rouge
+baton rouge metropolitan airport
+south burlington
+burlington international airport
+buffalo
+buffalo niagara international airport
+burbank
+hollywood burbank airport
+beaver falls
+beaver county airport
+beverly  danvers
+beverly regional airport
+bowling green
+bowling green warren county regional airport
+baltimore
+baltimorewashington international thurgood marshall airport
+brunswick executive airport
+blytheville
+arkansas international airport
+burley
+burley municipal airport
+fort irwinbarstow
+bicycle lake army air field
+bozeman
+bozeman yellowstone international airport
+columbia
+columbia metropolitan airport
+akron canton regional airport
+caribou
+caribou municipal airport
+columbus air force base
+concord
+buchanan field
+charles city
+northeast iowa regional airport
+cedar city
+cedar city regional airport
+chadron
+chadron municipal airport
+childress
+childress municipal airport
+crescent city
+jack mc namara field airport
+chicopee
+westover metropolitan airport  westover air reserve base
+crestview
+bob sikes airport
+cortez
+cortez municipal airport
+cuyahoga county airport
+cape girardeau
+cape girardeau regional airport
+chattanooga
+chattanooga metropolitan airport lovell field
+charlottesville
+charlottesville albemarle airport
+charleston
+charleston international airport
+cedar rapids
+the eastern iowa airport
+kincheloe
+chippewa county international airport
+north central west virginia airport
+cleveland hopkins international airport
+college station
+easterwood field
+port angeles
+william r fairchild international airport
+charlotte
+charlotte douglas international airport
+john glenn columbus international airport
+savoy
+university of illinois willard airport
+hancock
+houghton county memorial airport
+carlsbad
+cavern city air terminal
+chanute
+chanute martin johnson airport
+moab
+canyonlands regional airport
+cody
+yellowstone regional airport
+coeur dalene
+coeur dalene airport  pappy boyington field
+cocoa beach
+patrick space force base
+concord municipal airport
+colorado springs
+colorado springs municipal airport
+city of colorado springs municipal airport
+columbia regional airport
+casper
+caspernatrona county international airport
+north myrtle beach
+grand strand airport
+jacksonville
+jacksonville executive at craig airport
+corpus christi
+corpus christi international airport
+mcclellanpalomar airport
+yeager airport
+columbus metropolitan airport
+crossville
+crossville memorial airport whitson field
+cut bank
+cut bank international airport
+jim hamilton lb owens airport
+cincinnati  covington
+cincinnati northern kentucky international airport
+clovis
+clovis municipal airport
+corvallis
+corvallis municipal airport
+cannon air force base
+mosinee
+central wisconsin airport
+houston
+conroenorth houston regional airport
+cheyenne
+cheyenne regional jerry olson field
+fort belvoir
+davison army air field
+daytona beach
+daytona beach international airport
+daggett
+barstow daggett airport
+dallas
+dallas love field
+danville
+danville regional airport
+dayton
+james m cox dayton international airport
+dubuque
+dubuque regional airport
+washington
+ronald reagan washington national airport
+dodge city
+dodge city regional airport
+decatur
+decatur airport
+denver international airport
+detroit
+coleman a young municipal airport
+dallasfort worth
+dallas fort worth international airport
+dothan
+dothan regional airport
+dalhart
+dalhart municipal airport
+dickinson
+dickinson theodore roosevelt regional airport
+del rio
+laughlin air force base
+duluth
+duluth international airport
+dallesport  the dalles
+columbia gorge regional airport
+tucson
+davis monthan air force base
+deming
+deming municipal airport
+daniel field
+dover
+dover air force base
+chicagowest chicago
+dupage airport
+mercury
+desert rock airport
+deridder
+beauregard regional airport
+durango
+durango la plata county airport
+del rio international airport
+des moines
+des moines international airport
+destin
+destin executive airport
+detroit metropolitan wayne county airport
+durant
+durant regional airport  eaker field
+douglas bisbee
+bisbee douglas international airport
+dubois
+dubois regional airport
+devils lake
+devils lake regional airport
+danbury
+danbury municipal airport
+dyess air force base
+kearney
+kearney regional airport
+wenatchee
+pangborn memorial airport
+eau claire
+chippewa valley regional airport
+elizabeth city
+elizabeth city regional airport  coast guard air station
+panama city beach
+northwest florida beaches international airport
+edwards
+edwards air force base
+needles
+needles airport
+keene
+dillant hopkins airport
+ellington airport
+eagle
+eagle county regional airport
+duke field
+eureka
+murray field
+elkins
+elkinsrandolph county regional airport
+elko
+elko regional airport
+el dorado
+south arkansas regional airport at goodwin field
+elmiracorning
+elmira corning regional airport
+ely
+ely municipal airport
+el paso
+el paso international airport
+ely airport yelland field
+enid
+vance air force base
+wendover
+wendover airport
+kenosha
+kenosha regional airport
+erie
+erie international tom ridge field
+escanaba
+delta county airport
+esler army airfield  esler regional airport
+eugene
+mahlon sweet field
+evansville
+evansville regional airport
+evanston
+evanstonuinta county airportburns field
+new bedford
+bedford regional airport
+new bedford regional airport
+new bern
+bern
+coastal carolina regional airport
+newark
+newark liberty international airport
+key west
+key west international airport
+newport news fort eustis
+felker army air field
+fargo
+hector international airport
+fresno
+fresno yosemite international airport
+fayetteville
+fayetteville regional airport  grannis field
+fort bragg
+simmons army air field
+fort carson
+butts aaf fort carson air field
+findlay
+findlay airport
+wrightpatterson air force base
+friday harbor
+friday harbor airport
+fort huachuca  sierra vista
+sierra vista municipal airport  libby army air field
+franklin
+venango regional airport
+flagstaff
+flagstaff pulliam international airport
+fort lauderdale
+fort lauderdale hollywood international airport
+florence
+florence regional airport
+fort meadeodenton
+tipton airport
+farmington
+four corners regional airport
+fort myers
+page field
+loveland
+northern colorado regional airport
+flint
+bishop international airport
+fort dodge
+fort dodge regional airport
+topeka
+topeka regional airport
+fort pierce
+st lucie county international airport
+lucie county international airport
+farmingdale
+republic airport
+fort riley junction city
+marshall army air field
+sioux falls
+sioux falls regional airport  joe foss field
+fort sill
+henry post army air field
+fort smith regional airport
+fort stockton
+fort stockton pecos county airport
+fort knox
+godman army air field
+fort worth meacham international airport
+fulton county airport brown field
+fort wayne
+fort wayne international airport
+fort lauderdale executive airport
+drake field
+gillette
+northeast wyoming regional airport
+garden city
+garden city regional airport
+grand canyon  tusayan
+grand canyon national park airport
+glendive
+dawson community airport
+spokane
+spokane international airport
+grand forks international airport
+glens falls
+floyd bennett memorial airport
+longview
+east texas regional airport
+glasgow valley county airport wokal field
+grand junction
+grand junction regional airport
+goodland
+goodland municipal airport
+greenville
+mid delta regional airport
+galveston
+scholes international at galveston airport
+greenville downtown airport
+gainesville
+gainesville regional airport
+groton
+groton new london airport
+kalispell
+glacier park international airport
+gulfport
+gulfport biloxi international airport
+green bay
+austin straubel international airport
+fort lewistacoma
+gray army air field
+grand island
+central nebraska regional airport
+fort cavazos
+killeen regional airport  robert gray army airfield
+grand rapids
+gerald r ford international airport
+goldsboro
+seymour johnson air force base
+greensboro
+piedmont triad international airport
+greer
+greenville spartanburg international airport
+great falls
+great falls international airport
+columbusw pointstarkville
+golden triangle regional airport
+gunnison
+gunnison crested butte regional airport
+gallup
+gallup municipal airport
+peru
+grissom air reserve base
+guymon
+guymon municipal airport
+greenwoodleflore airport
+denison
+north texas regional airport perrin field
+gary
+gary chicago international airport
+hattiesburg
+hattiesburg bobby l chain municipal airport
+hobart
+hobart regional airport
+hayden
+yampa valley airport
+manassas
+manassas regional airportharry p davis field
+hartford brainard airport
+hagerstown
+hagerstown regional richard a henson field
+hawthorne
+jack northrop field hawthorne municipal airport
+hibbing
+range regional airport
+ogden
+hill air force base
+lake havasu city
+lake havasu city international airport
+portland
+portland hillsboro airport
+hickory
+hickory regional airport
+wheeling
+wheeling ohio county airport
+helena
+helena regional airport
+holloman air force base
+hobbs
+lea county regional airport
+huron
+huron regional airport
+fort campbell
+campbell army airfield fort campbell
+hot springs
+memorial field airport
+william p hobby airport
+white plains
+westchester county airport
+hoquiam
+bowerman airport
+harlingen
+valley international airport
+harrison
+boone county airport
+homestead
+homestead arb airport
+huntsville
+huntsville international carl t jones field
+huntington
+tristate airport  milton j ferguson field
+redstone arsnl huntsville
+redstone army air field
+terre haute
+terre haute regional airport hulman field
+houlton
+houlton international airport
+hutchinson
+hutchinson municipal airport
+haven
+new haven
+tweed new haven airport
+havre
+havre city county airport
+hilton head island
+hilton head airport
+hyannis
+cape cod gateway airport
+hayward
+sawyer county airport
+hays
+hays regional airport
+ashtabula
+northeast ohio regional airport
+wichita
+mcconnell air force base
+dulles
+washington dulles international airport
+niagara falls
+niagara falls international airport
+george bush intercontinental houston airport
+wichita eisenhower national airport
+idaho falls
+idaho falls regional airport
+bullhead city
+laughlin bullhead international airport
+kingman
+kingman airport
+kankakee
+greater kankakee airport
+wilmington
+wilmington airport
+wilmington international airport
+wilmington airpark
+kingsford
+ford airport
+indianapolis
+indianapolis international airport
+wink
+winkler county airport
+international falls
+falls international airport
+winston salem
+smith reynolds airport
+winslow
+winslow lindbergh regional airport
+imperial
+imperial county airport
+williamsport
+williamsport regional airport
+kirksville
+kirksville regional airport
+orlando
+kissimmee gateway airport
+kinston
+kinston regional jetport at stallings field
+islip
+long island mac arthur airport
+ithaca
+ithaca tompkins regional airport
+mesa
+mesa gateway airport
+jackson
+jackson hole airport
+jacksonmedgar wiley evers international airport
+jacksonville international airport
+jonesboro
+jonesboro municipal airport
+junction
+kimble county airport
+new york
+york
+john f kennedy international airport
+jamestown
+chautauqua countyjamestown airport
+joplin
+joplin regional airport
+jamestown regional airport
+concordpadgett regional airport
+johnstown
+john murtha johnstown cambria county airport
+jackson county airportreynolds field
+kelso
+southwest washington regional airport
+lamar
+southeast colorado regional airport
+west lafayette
+purdue university airport
+lakeland
+lakeland linder international airport
+lansing
+capital city airport
+laramie
+laramie regional airport
+las vegas
+harry reid international airport
+lawton
+lawton fort sill regional airport
+los angeles
+los angeles international airport
+lubbock
+lubbock preston smith international airport
+latrobe
+arnold palmer regional airport
+north platte
+north platte regional airport lee bird field
+liberal
+liberal midamerica regional airport
+lumberton
+lumberton regional airport
+angleton
+texas gulf coast regional airport
+lake charles
+lake charles regional airport
+rickenbacker international airport
+lebanon
+lebanon municipal airport
+leesburg
+leesburg international airport
+lexington
+blue grass airport
+hampton
+langley air force base
+lufkin
+angelina county airport
+lafayette
+lafayette regional airport
+laguardia airport
+long beach
+long beach airport daugherty field
+logan
+logancache airport
+little rock
+bill  hillary clinton national airportadams field
+klamath falls
+crater lakeklamath regional airport
+lander
+hunt field
+lincoln
+lincoln airport
+lancaster
+lancaster airport
+lovelock
+derby field
+louisville
+bowman field
+londoncorbin airportmagee field
+laredo
+laredo international airport
+little rock air force base
+las cruces
+las cruces international airport
+la crosse
+la crosse regional airport
+fort benning
+lawson army air field
+nellis air force base
+altus
+altus air force base
+glendale
+luke air force base
+cincinnati
+cincinnati municipal airport lunken field
+livingston
+mission field
+las vegas municipal airport
+lewisburg
+greenbrier valley airport
+lawrence
+lawrence municipal airport
+lewiston
+lewiston nez perce county airport
+lewistown
+lewistown municipal airport
+lynchburg
+lynchburg regional airport  preston glenn field
+midland
+midland international air and space port
+mobridge
+mobridge municipal airport
+freeland
+mbs international airport
+mccomb
+mccombpike county airport  john e lewis field
+sacramento
+mcclellan airfield
+merced
+merced regional macready field
+tampa
+macdill air force base
+kansas city
+kansas city international airport
+mccook
+mccook ben nelson regional airport
+macon
+middle georgia regional airport
+orlando international airport
+mason city
+mason city municipal airport
+murphysboro
+southern illinois airport
+harrisburg
+harrisburg international airport
+chicago
+chicago midway international airport
+meridian
+key field  meridian regional airport
+memphis
+memphis international airport
+castle airport
+mansfield
+mansfield lahm regional airport
+mcallen
+mcallen miller international airport
+medford
+rogue valley international medford airport
+marietta
+dobbins air reserve base
+montgomery
+montgomery regional dannelly field airport
+morgantown
+morgantown municipal airport walter l bill hart field
+manhattan
+manhattan regional airport
+sacramento mather airport
+manchester
+manchesterboston regional airport
+miami
+miami international airport
+minot
+minot air force base
+muncie
+delaware county johnson field
+millville
+millville municipal airport
+charles b wheeler downtown airport
+milwaukee
+general mitchell international airport
+muskegon
+muskegon county airport
+mckellarsipes regional airport
+melbourne
+melbourne orlando international airport
+mc alester
+mc alester regional airport
+moline
+quad city international airport
+miles city
+miles city airport  frank wiley field
+monroe
+monroe regional airport
+eastover
+mc entire joint national guard base
+morristown
+morristown municipal airport
+mobile regional airport
+modesto
+modesto city coharry sham field
+minot international airport
+barremontpelier
+edward f knapp state airport
+smyrna
+smyrna airport
+martinsburg
+eastern wv regional airportshepherd field
+monterey
+monterey peninsula airport
+muscle shoals
+northwest alabama regional airport
+madison
+dane county regional truax field
+missoula
+missoula international airport
+minneapolis
+minneapolissaint paul international airport  woldchamberlain field
+massena
+massena international airport richards field
+new orleans
+orleans
+louis armstrong new orleans international airport
+mount clemens
+selfridge air national guard base airport
+the florida keys marathon airport
+montrose
+montrose regional airport
+martin state airport
+fort indiantown gapannville
+muir army air field fort indiantown gap airport
+mountain home air force base
+marion
+veterans airport of southern illinois
+moses lake
+grant county international airport
+maxwell air force base
+mccall
+mccall municipal airport
+myrtle beach
+myrtle beach international airport
+marysville
+yuba county airport
+new orleans nas jrbalvin callender field
+orleans nas jrbalvin callender field
+lakehurst
+lakehurst maxfield field airport
+lakefront airport
+fallon
+fallon naval air station
+nas fort worth jrb  carswell field
+naval air station corpus christi truax field
+norfolk
+norfolk naval station chambers field
+patuxent river
+patuxent river naval air station trapnell field
+jacksonville naval air station towers field
+el centro
+el centro naf airport vraciu field
+san diego
+miramar marine corps air station  mitscher field
+lemoore
+lemoore naval air station reeves field airport
+pensacola
+naval air station pensacola forrest sherman field
+millington
+millingtonmemphis airport
+kingsville
+kingsville naval air station
+naval air station key westboca chica field
+naval station mayport  admiral david l mcdonald field
+milton
+whiting field naval air station  north
+point mugu
+point mugu naval air station naval base ventura co
+virginia beach
+oceana naval air station
+mountain view
+moffett federal airfield
+oak harbor
+whidbey island naval air station ault field
+quantico
+quantico marine corps airfield  turner field
+yuma
+yuma international airport  marine corps air station yuma
+north island naval air stationhalsey field
+richlands
+albert j ellis airport
+oakland
+san francisco bay oakland international airport
+omaha
+offutt air force base
+karl stefan memorial airport
+orangeburg
+orangeburg municipal airport
+ogden hinckley airport
+ogdensburg
+ogdensburg international airport
+oklahoma city
+will rogers world airport
+wolf point
+l m clayton airport
+olympia
+olympia regional airport
+nogales
+nogales international airport
+eppley airfield
+oregon
+ontario municipal airport
+newport
+newport municipal airport
+ontario
+ontario international airport
+miamiopa locka executive airport
+north kingstown
+quonset state airport
+chicago ohare international airport
+norfolk international airport
+worcester
+worcester regional airport
+eastsound
+orcas island airport
+oshkosh
+wittman regional airport
+the ohio state university airport  don scott field
+north bend
+southwest oregon regional airport
+ottumwa
+ottumwa regional airport
+owensboro
+owensboro daviess county airport
+norwood
+norwood memorial airport
+oxnard
+oxnard airport
+fort ruckerozark
+cairns aaf fort rucker air field
+everett
+seattle paine field international airport
+paducah
+barkley regional airport
+panama city
+tyndall air force base
+palo alto
+palo alto airport
+pine bluff
+pine bluff regional airport grider field
+plattsburgh
+plattsburgh international airport
+west palm beach
+palm beach international airport
+dekalb peachtree airport
+pendleton
+eastern oregon regional airport at pendleton
+portland international airport
+page
+page municipal airport
+pittgreenville airport
+newport news
+newport news williamsburg international airport
+philadelphia
+philadelphia international airport
+phoenix
+phoenix sky harbor international airport
+peoria
+general wayne a downing peoria international airport
+moselle
+hattiesburg laurel regional airport
+pinellas park
+st petersburg clearwater international airport
+petersburg clearwater international airport
+pocatello
+pocatello regional airport
+pierre
+pierre regional airport
+pittsburgh international airport
+parkersburg williamstown
+mid ohio valley regional airport
+pellston
+pellston regional airport of emmet county airport
+palmdale
+palmdale regional airport  usaf plant  airport
+pinedale
+ralph wenz field
+ponca city
+ponca city regional airport
+northeast philadelphia airport
+pensacola international airport
+pope field
+fort polk
+polk army air field
+poughkeepsie
+dutchess county airport
+presque isle
+presque isle international airport
+paso robles
+paso robles municipal airport
+prescott
+prescott international airport  ernest a love field
+paris
+cox field
+pasco
+tri cities airport
+portsmouth
+portsmouth international at pease airport
+palm springs
+palm springs international airport
+pontiac
+oakland county international airport
+pueblo
+pueblo memorial airport
+pullman
+pullmanmoscow regional airport
+warwick
+theodore francis green state airport
+provo
+provoutah lake international airport
+chicagoprospect heightswheeling
+chicago executive airport
+portland international jetport
+bremerton
+bremerton national airport
+riverside
+riverside municipal airport
+rapid city
+rapid city regional airport
+red bluff
+red bluff municipal airport
+ellsworth air force base
+redding
+redding municipal airport
+reading
+reading regional airport carl a spaatz field
+redmond
+roberts field
+grand forks air force base
+raleighdurham
+raleigh durham international airport
+chicagorockford
+chicago rockford international airport
+rhinelander
+rhinelander oneida county airport
+richmond
+richmond international airport
+rifle
+garfield county regional airport
+march air reserve base
+riverton
+central wyoming regional airport
+rockland
+knox county regional airport
+rock springs
+southwest wyoming regional airport
+rome
+griffiss international airport
+richard b russell airport
+universal city
+randolph air force base
+new richmond
+richmond regional airport
+new richmond regional airport
+reno
+reno tahoe international airport
+roanoke
+roanokeblacksburg regional airport
+rochester
+frederick douglass greater rochester international airport
+roswell
+roswell air center airport
+russell
+russell municipal airport
+rochester international airport
+southwest florida international airport
+rutland
+rutland  southern vermont regional airport
+tulsa
+tulsa riverside airport
+redwood falls
+redwood falls municipal airport
+rocky mount
+rocky mount wilson regional airport
+rawlins
+rawlins municipal airportharvey field
+sacramento executive airport
+santa fe
+santa fe municipal airport
+san diego international airport
+san antonio
+san antonio international airport
+savannah
+savannah hilton head international airport
+gwinn
+marquettesawyer international airport
+santa barbara
+santa barbara municipal airport
+san bernardino
+san bernardino international airport
+south bend
+south bend regional airport
+san luis obispo
+san luis county regional airport
+salisbury
+salisbury ocean city wicomico regional airport
+schenectady
+schenectady county airport
+stockton
+stockton metropolitan airport
+louisville muhammad ali international airport
+brown field municipal airport
+sidney
+sidney  richland regional airport
+seattletacoma international airport
+orlando sanford international airport
+felts field
+san francisco
+san francisco international airport
+springfield
+springfield branson national airport
+springfieldbeckley municipal airport
+st augustine
+augustine
+northeast florida regional airport
+sugar land regional airport
+st george
+george regional airport
+st george regional airport
+weyers cave
+shenandoah valley regional airport
+sheridan
+sheridan county airport
+shreveport
+shreveport regional airport
+san jose
+norman y mineta san jose international airport
+san angelo
+san angelo regional mathis field
+fairchild air force base
+lackland air force base
+taos
+taos regional airport
+salt lake city
+salt lake city international airport
+salem
+salemwillamette valley airportmcnary field
+saranac lake
+adirondack regional airport
+salina
+salina municipal airport
+somerset
+lake cumberland regional airport
+sacramento international airport
+salmon
+lemhi county airport
+santa monica
+santa monica municipal airport
+santa maria
+santa maria public airport captain g allan hancock field
+santa ana
+john wayne orange county international airport
+salinas
+salinas municipal airport
+sidney municipal airport lloyd w carr field
+show low
+show low regional airport
+abraham lincoln capital airport
+wichita falls
+wichita falls municipal airport  sheppard air force base
+san carlos
+san carlos airport
+sarasotabradenton
+sarasota bradenton international airport
+alto
+sierra blanca regional airport
+sumter
+shaw air force base
+stinson municipal airport
+st simons island
+simons island
+st simons island airport
+simons island airport
+saint cloud
+cloud
+cloud regional airport
+saint cloud regional airport
+joseph
+st joseph
+rosecrans memorial airport
+st louis
+louis lambert international airport
+st louis lambert international airport
+paul
+saint paul
+saint paul downtown holman field
+paul downtown holman field
+santa rosa
+charles m schulz sonoma county airport
+hailey
+friedman memorial airport
+spirit of st louis airport
+fairfield
+travis air force base
+sioux city
+sioux gateway airport  brigadier general bud day field
+silver city
+grant county airport
+hunter army air field
+newburgh
+york stewart international airport
+new york stewart international airport
+stillwater
+stillwater regional airport
+syracuse
+syracuse hancock international airport
+knob noster
+whiteman air force base
+fort leonard wood
+waynesvillest robert regional airportforney field
+tucumcari
+tucumcari municipal airport
+tuscaloosa
+tuscaloosa national airport
+tacoma
+mcchord air force base
+truth or consequences
+truth or consequences municipal airport
+teterboro
+teterboro airport
+telluride
+telluride regional airport
+tinker air force base
+tacoma narrows airport
+titusville
+space coast regional airport
+tallahassee
+tallahassee regional airport
+miami executive airport
+troy
+troy municipal airport at n kenneth campbell field
+toledo
+eugene f kranz toledo express airport
+philip billard municipal airport
+tampa international airport
+tonopah
+tonopah airport
+temple
+draughon miller central texas regional airport
+blountville
+tricities regional tnva airport
+truckee
+truckee tahoe airport
+jacqueline cochran regional airport
+portland troutdale airport
+ewing township
+trenton mercer airport
+tulsa international airport
+tupelo
+tupelo regional airport
+tucson international airport  morris air national guard base
+traverse city
+cherry capital airport
+thief river falls
+thief river falls regional airport
+south lake tahoe
+lake tahoe airport
+twin falls
+joslin field magic valley regional airport
+texarkana
+texarkana regional airport webb field
+tyler
+tyler pounds regional airport
+alcoa
+mcghee tyson airport
+quincy
+quincy regional airport baldwin field
+ukiah
+ukiah municipal airport
+state college
+state college regional airport
+oxford
+university oxford airport
+huntsville regional airport
+valdosta
+moody air force base
+lompoc
+vandenberg space force base
+victoria regional airport
+vernal
+vernal regional airport
+north las vegas metropolitan international airport
+visalia
+visalia municipal airport
+valdosta regional airport
+van nuys
+van nuys airport
+camp douglas
+volk field
+valparaiso
+destinfort walton beach airport
+porter county municipal airport
+cecil airport
+vero beach
+vero beach regional airport
+valentine
+miller field
+general william j fox airfield
+winnemucca
+winnemucca municipal airport
+warner robins
+robins air force base
+wrightstown
+mc guire air force base
+worland
+worland municipal airport
+westerly
+westerly state airport
+wildwood
+cape may county airport
+woodward
+west woodward airport
+kiwayu
+kiwayu airport
+west yellowstone
+yellowstone airport
+fayettevillespringdalerogers
+northwest arkansas national airport
+williston
+williston basin international airport
+willow run airport
+yakima
+yakima air terminal mcallister field
+yankton
+chan gurney municipal airport
+youngstownwarren
+youngstown warren regional airport
+zanesville
+zanesville municipal airport
+ton phueng
+bokeo international airport
+kuks
+kuks international airport
+rinas
+tirana international airport mother teresa
+burgas
+burgas airport
+gorna oryahovitsa
+gorna oryahovitsa airport
+plovdiv
+plovdiv international airport
+sofia
+sofia airport
+varna
+varna airport
+tymbou kirklar
+nicosia lefkoa ercan international airport
+lefkoniko geitkale
+lefkoniko airport  geitkale air base
+larnaca
+larnaca international airport
+paphos
+paphos international airport
+akrotiri
+raf akrotiri
+ilipi
+dubrovnik ruer bokovi airport
+klisa
+osijek airport
+pula
+pula airport
+omialj
+rijeka airport
+gornji humac
+bra airport
+katel tafili
+split airport
+velika gorica
+zagreb franjo tuman international airport
+zemunik donji zadar
+zadar airport
+albacete
+albacete airport  los llanos air base
+alicante
+alicanteelche miguel hernndez airport
+almera
+almera airport
+rann
+asturias airport
+crdoba
+crdoba airport
+bilbao
+bilbao airport
+burgos
+burgos airport
+barcelona
+josep tarradellas barcelonael prat airport
+badajoz
+badajoz airport
+castelln de la plana
+castellncosta azahar airport
+culleredo
+a corua airport
+lleida
+lleidaalguaire airport
+girona
+gironacosta brava airport
+granada
+fgl airport granadajan airport
+ibiza eivissa
+ibiza airport
+jerez de la frontera
+jerez airport
+la virgen del camino
+len intl airport
+logroo
+logrooagoncillo airport
+madrid
+adolfo surez madridbarajas airport
+mlaga
+mlagacosta del sol airport
+mahn ma
+menorca airport
+corvera
+regin de murcia international airport
+morn
+moron air base
+palma de mallorca
+palma de mallorca airport
+pamplona
+pamplona airport
+ciudad real
+ciudad real international airport
+reus
+reus airport
+rota
+rota naval station airport
+salamanca
+salamanca airport
+hondarribia
+san sebastin airport
+santiago de compostela
+santiagorosala de castro airport
+teruel
+teruel airport
+madridtorrejn airport  torrejn air base
+valencia
+valencia airport
+valladolid
+valladolid airport
+alava
+vitoria airport
+vigo
+vigo airport
+santander
+seve ballesterossantander airport
+zaragoza
+zaragoza airport
+sevilla
+sevilla airport
+marck
+calaisdunkerque airport
+le touquetparisplage
+le touquetcte dopale airport
+agenla garenne
+agenla garenne airport
+bordeauxmrignac
+bordeauxmrignac airport
+bergeracroumanire
+bergerac dordogne prigord airport
+cognacchteaubernard
+cognacchteaubernard ba  air base
+la rochellele de r
+la rochellele de r airport
+poitiersbiard
+poitiersbiard airport
+lpaud creuse
+montluonguret airport
+limogesbellegarde
+limoges airport
+niortsouch
+niort  marais poitevin airport
+toulouseblagnac
+toulouseblagnac airport
+paupyrnes uzein
+pau pyrnes airport
+tarbeslourdespyrnes
+tarbeslourdespyrnes airport
+angoulmebriechampniers
+angoulmebriechampniers airport
+prigueuxbassillac
+prigueuxbassillac airport
+biarritzangletbayonne
+biarritzangletbayonne airport
+cahorslalbenque
+arodrome de cahorslalbenque
+albile squestre
+albile squestre airport
+castresmazamet
+castresmazamet airport
+rodezmarcillac
+rodezaveyron airport
+royanmdis
+royanmdis airport
+rochefortsaintagnant
+rochefortsaintagnant ba  airport
+colmar hautrhin
+colmarhoussen airport
+tavaux jura
+dolejura airport
+lanas ardche
+aubenassouth ardche airport
+goin
+metznancylorraine airport
+marc maineetloire
+angersloire airport
+bastiaporetta
+bastiaporetta airport
+calvisaintecatherine
+calvisaintecatherine airport
+figari sudcorse
+figari sudcorse airport
+ajaccionapolon bonaparte
+ajaccionapolon bonaparte airport
+solenzara
+solenzara ba  air base
+appoigny yonne
+auxerrebranches airport
+viviersdulac
+chambry savoie mont blanc airport
+aulnat puydedme
+clermontferrand auvergne airport
+bourges cher
+bourges airport
+colombiersaugnieu rhne
+lyon saintexupry airport
+lhpitallemercier saneetloire
+saintyan airport
+saintlgersurroanne
+roannerenaison airport
+epagny metztessy
+annecy hautesavoie mont blanc airport
+sainttiennedesaintgeoirs isre
+grenoble alpes isre airport
+chabeuil drme
+valencechabeuil airport
+charmeil allier
+vichycharmeil airport
+aurillac
+aurillac airport
+dols indre
+chteaurouxdols marcel dassault airport
+chassieu lyon
+lyon bron airport
+cannes alpesmaritimes
+cannesmandelieu airport
+andrzieuxbouthon loire
+sainttiennebouthon airport
+carcassonnesalvaza
+carcassonne airport
+marignane bouchesdurhne
+marseille provence airport
+nice alpesmaritimes
+nicecte dazur airport
+perpignanrivesaltes
+perpignanrivesaltes llabanre airport
+le castellet var
+le castellet airport
+montpelliermditerrane
+montpelliermditerrane airport
+bziersvias
+bziersvias airport
+avignon vaucluse
+avignoncaumont airport
+mendebrnoux
+mendebrenoux airfield
+till
+parisbeauvais airport
+fauville eure
+vreuxfauville ba  air base
+le havre
+le havreocteville airport
+bussylettre
+chlonsvatry airport
+boos
+rouen valle de seine airport
+tours indreetloire
+tours val de loire airport
+laval mayenne
+lavalentrammes airport
+paris le bourget seinesaintdenis
+parisle bourget airport
+creil
+creil air base
+paris roissyenfrance valdoise
+charles de gaulle international airport
+toussuslenoble yvelines
+toussuslenoble airport
+paris orly valdemarne
+parisorly airport
+cormeillesenvexin valdoise
+pontoisecormeilles aerodrome
+vlizyvillacoublay yvelines
+vlizyvillacoublay air base
+marzy nivre
+neversfourchambault airport
+lesquin
+lille airport
+merville nord
+mervillecalonne airport
+brestguipavas
+brest bretagne airport
+gonnevillele theil manche
+cherbourgmaupertus airport
+pleurtuit illeetvilaine
+dinardpleurtuitsaintmalo airport
+la bauleescoublac
+la bauleescoublac airport
+brvillesurmer manche
+granville airport
+deauville calvados
+deauvillenormandie airport
+lorientlannbihou
+lorient south brittany bretagne sud airport
+la rochesuryonles ajoncs
+la rochesuryon airport
+landivisiau
+landivisiau air base
+carpiquet calvados
+caencarpiquet airport
+le mans sarthe
+le mansarnage airport
+saintjacquesdelalande illeetvilaine
+rennessaintjacques airport
+lannion
+lannioncte de granit airport
+quimperpluguffan
+quimpercornouaille airport
+nantes
+nantes atlantique airport
+trmuson ctesdarmor
+saintbrieucarmor airport
+morlaixploujean
+morlaixploujean airport
+vannesmeucon
+vannesmeucon airport
+saintnazairemontoir
+saintnazairemontoir airport
+saintlouis
+euroairport baselmulhousefreiburg
+ouges ctedor
+dijonbourgogne airport
+juvaincourt vosges
+pinalmirecourt airport
+brive la gaillarde
+brivesouillac
+tomblaine meurtheetmoselle
+nancyessey airport
+strasbourg
+strasbourg airport
+hyres var
+toulonhyres airport
+nmesgarons
+nmesarlescamargue airport
+pierre airport
+st pierre airport
+andravida
+andravida air base
+alexandroupolis
+alexandroupoli democritus airport
+spataartemida
+athens eleftherios venizelos international airport
+nea anchialos
+nea anchialos national airport
+chios island
+chios island national airport
+ioannina
+ioannina king pyrrhus national airport
+heraklion
+heraklion international nikos kazantzakis airport
+kefallinia island
+kefallinia airport
+kalamata
+kalamata airport
+kos island
+kos airport
+karpathos island
+karpathos airport
+kerkyra corfu
+corfu ioannis kapodistrias international airport
+kavala
+kavala alexander the great international airport
+kozani
+kozani national airport filippos
+mykonos
+mykonos island national airport
+mytilene
+mytilene international airport
+preveza
+aktion national airport
+rhodes
+diagoras airport
+patras
+patras araxos agamemnon airport
+souda
+chania international airport
+skiathos
+skiathos island national airport
+samos island
+samos airport
+santorini island
+santorini airport
+crete island
+sitia airport
+thessaloniki
+thessaloniki macedonia international airport
+zakynthos
+zakynthos international airport dionysios solomos
+budapest
+budapest liszt ferenc international airport
+debrecen
+debrecen international airport
+pcs
+pcspogny airport
+srmellk
+hvzbalaton airport
+isola di capo rizzuto kr
+crotone santanna pythagoras airport
+bari
+bari karol wojtya international airport
+foggia fg
+foggia gino lisa airport
+grottaglie
+tarantogrottaglie marcello arlotta airport
+galatina le
+lecce galatina air base  galatina fortunato cesari airport
+pescara
+abruzzo airport
+brindisi
+brindisi airport
+lamezia terme cz
+lamezia terme santeufemia international airport
+comiso
+comiso airport
+catania
+cataniafontanarossa airport
+lampedusa
+lampedusa airport
+pantelleria tp
+pantelleria airport
+palermo
+falconeborsellino airport
+reggio calabria
+reggio calabria airport
+trapani tp
+vincenzo florio airport trapanibirgi
+sigonella ct
+sigonella navy air base
+alghero
+algherofertilia airport
+decimomannu
+decimomannu air base
+cagliari
+cagliari elmas airport
+olbia ss
+olbia costa smeralda airport
+arbatax
+tortol airport
+ferno va
+milan malpensa international airport
+orio al serio bg
+milan bergamo airport  antonio locatelli air base
+caselle torinese to
+turin airport
+villanova dalbenga sv
+riviera villanova dalbenga international airport
+genova ge
+genoa cristoforo colombo airport
+segrate mi
+milano linate airport
+parma pr
+parma airport
+saintchristophe ao
+aosta corrado gex airport
+levaldigi cn
+cuneo international airport
+aviano pn
+aviano air base
+bolzano bz
+bolzano airport
+bologna
+bologna guglielmo marconi airport
+treviso tv
+treviso antonio canova airport
+forl fc
+forl luigi ridolfi airport
+montichiari bs
+brescia gabriele dannunzio airport
+ronchi dei legionari go
+triestefriuli venezia giulia airport
+rimini rn
+federico fellini international airport
+caselle vr
+verona villafranca valerio catullo airport
+falconara marittima an
+marche airport
+venezia ve
+venice marco polo airport
+ampugnano si
+sienaampugnano airport
+ciampinog b pastine international airport
+romefiumicino leonardo da vinci international airport
+salerno
+salerno costa damalfi airport
+campo nellelba li
+marina di campo airport
+napoli
+naples international airport
+pisa pi
+pisa international airport
+firenze fi
+florence airport peretola
+grosseto gr
+grosseto corrado baccarini air base  grosseto airport
+perugia pg
+perugia san francesco dassisi  umbria international airport
+zgornji brnik
+ljubljana joe punik airport
+orehova vas
+maribor edvard rusjan airport
+seovlje
+portoro airport
+uhersk hradit
+kunovice airport
+karlovy vary
+karlovy vary airport
+monov
+ostrava leos janek airport
+pardubice
+pardubice airport
+perov
+perov air base
+prague
+vclav havel airport prague
+brno
+brnotuany airport
+vodochody
+vodochody airport
+tel aviv
+ben gurion international airport
+eilat
+ramon international airport
+haifa
+haifa international airport
+rosh pina
+rosh pina airport
+masada
+bar yehuda airfield
+beersheba
+nevatim air base
+ramon air base
+valletta
+malta international airport
+feldkirchen bei graz
+graz airport
+innsbruck
+innsbruck airport
+klagenfurt am wrthersee
+klagenfurt airport
+linz
+linzhrsching airport  vogler air base
+salzburg
+salzburg airport
+vienna
+vienna international airport
+vila franca de xira
+alverca air base
+vila do porto
+santa maria airport
+bragana
+bragana airport
+beja
+beja airport  airbase
+braga
+braga municipal aerodrome
+coimbra
+aerodromo municipal de coimbra
+cascais
+cascais airport
+santa cruz das flores
+flores airport
+santa cruz da graciosa
+graciosa airport
+horta
+horta airport
+praia da vitria
+lajes airport
+funchal
+madeira international airport cristiano ronaldo
+monte real air base
+ponta delgada
+joo paulo ii airport
+pico island
+pico airport
+portimo
+portimo airport
+porto
+francisco de s carneiro airport
+vila baleira
+porto santo airport
+lisbon
+lisbon humberto delgado airport
+velas
+so jorge airport
+vila real
+vila real airport
+viseu
+aerodromo goncalves lobato viseu airport
+mahovljani
+banja luka international airport
+mostar
+mostar international airport
+sarajevo
+sarajevo international airport
+dubrave gornje
+tuzla international airport
+arad
+arad international airport
+bacu
+bacu george enescu international  airport
+tuiimgheru
+maramure international airport
+bucharest
+bucharest bneasa aurel vlaicu international airport
+braov ghimbav
+braovghimbav international airport
+mihail koglniceanu
+mihail koglniceanu international airport
+clujnapoca
+cluj avram iancu international airport
+caransebe
+caransebe airport
+craiova
+craiova international airport
+iai
+iai airport
+oradea
+oradea international airport
+otopeni
+bucharest henri coand international airport
+sibiu
+sibiu international airport
+satu mare
+satu mare international airport
+suceava
+suceava stefan cel mare airport
+tulcea danube delta airport
+recea
+trgu mure transilvania international airport
+timioara
+timioara traian vuia airport
+geneva
+geneva cointrin international airport
+sion
+sion airport
+emmen
+emmen air base
+payerne
+payerne air base
+agno
+lugano airport
+bern airport
+zurich
+zrich airport
+gallen
+st gallen
+sankt gallen altenrhein airport
+samedan
+samedan airport
+ankara
+esenboa international airport
+etimesgut air base
+seyhan
+adana akirpaa airport
+saram
+ncirlik air base
+afyonkarahisar
+afyon air base
+antalya
+antalya international airport
+gaziantep
+gaziantep international airport
+kastamonu
+kastamonu airport
+konya
+konya airport
+zonguldak
+zonguldak aycuma airport
+malatya
+malatya erha airport
+kayseri
+kayseri erkilet airport
+tokat
+tokat airport
+denizli
+ardak airport
+bakrky istanbul
+stanbul atatrk airport
+balkesir
+balkesir airport
+bandrma
+bandrma airport
+anakkale
+anakkale airport
+eskiehir
+eskiehir air base
+gaziemir
+adnan menderes international airport
+ili
+ili airbase
+uak
+uak airport
+kartepe
+cengiz topel airport
+yeniehir
+bursa yeniehir airport
+dalaman
+dalaman international airport
+orlu
+tekirda orlu airport
+anadolu airport
+elaz
+elaz airport
+ordu
+ordugiresun airport
+diyarbakr
+diyarbakr airport
+erzincan
+erzincan airport
+erzurum
+erzurum international airport
+kars
+kars airport
+trabzon
+trabzon international airport
+van
+van ferit melen airport
+batman
+batman airport
+mu
+mu airport
+siirt
+siirt airport
+sinop
+sinop airport
+kahramanmara
+kahramanmara airport
+ar
+ar airport
+adyaman
+adyaman airport
+mardin
+mardin airport
+anlurfa
+anlurfa gap airport
+idr
+idr airport
+rnak
+rnak erafettin eli airport
+hakkari
+hakkari yksekova airport
+antakya
+hatay airport
+tarsus
+ukurova international airport
+isparta
+sleyman demirel international airport
+edremit
+balkesir koca seyit airport
+bodrum
+milas bodrum international airport
+gazipaa
+gazipaaalanya airport
+samsun
+samsunaramba airport
+pendik istanbul
+istanbul sabiha gken international airport
+arnavutky istanbul
+stanbul airport
+rize
+rizeartvin airport
+bli
+bli international airport
+chiinu
+chiinu international airport
+ohrid
+ohrid st paul the apostle airport
+ilinden
+skopje international airport
+gibraltar
+gibraltar airport
+brak
+brak airport
+belgrade
+belgrade nikola tesla airport
+zemun
+batajnica air base
+kraljevo
+morava airport
+ni
+ni constantine the great airport
+podgorica
+podgorica airport  podgorica golubovci airbase
+tivat
+tivat airport
+stapari
+ponikve airport
+nanchong langzhong
+langzhong gucheng airport
+bratislava
+m r tefnik airport
+koice
+koice international airport
+pieany
+pieany airport
+slia
+slia airport
+poprad
+popradtatry airport
+doln hriov
+ilinadoln hriov airport
+cockburn town
+jags mccartney international airport
+north caicos
+north caicos airport
+providenciales
+providenciales international airport
+south caicos
+south caicos airport
+barahona
+maria montez international airport
+cabo rojo
+cabo rojo airport
+samana
+saman el catey international airport
+la isabela
+la isabela international airport
+la romana
+casa de campo international airport
+punta cana
+punta cana international airport
+puerto plata
+gregorio luperon international airport
+santo domingo
+las amricas international airport
+santiago
+cibao international airport
+coban
+coban airport
+guatemala city
+la aurora airport
+puerto barrios
+puerto barrios airport
+rubelsanto
+rubelsanto airport
+retalhuleu
+retalhuleu airport
+puerto san jos
+san jos airport
+san benito
+mundo maya international airport
+la ceiba
+goloson international airport
+san pedro sula
+ramn villeda morales international airport
+guanaja
+la laguna airport
+coxen hole
+juan manuel glvez international airport
+palmerola
+palmerola international airport  jos enrique soto cano air base
+tela
+tela airport
+tegucigalpa
+toncontn international airport
+trujillo
+trujillo airport
+boscobel
+ian fleming international airport
+norman manley international airport
+montego bay
+sangster international airport
+ken jones
+ken jones airport
+tinson pen
+tinson pen airport
+acapulco
+general juan n lvarez international airport
+monterrey
+del norte international airport
+aguascalientes
+jess tern peredo international airport
+huatulco
+bahas de huatulco international airport
+temixco
+general mariano matamoros international airport
+ciudad del carmen
+ciudad del carmen international airport
+culiacn
+bachigualato federal international airport
+chetumal
+chetumal international airport
+ciudad obregn
+ciudad obregn international airport
+campeche
+ingeniero alberto acua ongay international airport
+ciudad jurez
+abraham gonzlez international airport
+chihuahua
+general roberto fierro villalobos international airport
+ciudad victoria
+general pedro jose mendez international airport
+celaya
+captain rogelio castillo national airport
+cozumel
+cozumel international airport
+general guadalupe victoria international airport
+tepic
+amado nervo national airport
+guadalajara
+guadalajara international airport
+guaymas
+general jos mara yez international airport
+hermosillo
+general ignacio p garcia international airport
+colima
+licenciado miguel de la madrid international airport
+saltillo
+plan de guadalupe international airport
+ixtepec
+general antonio crdenas rodrguez national airport  ixtepec air base
+emiliano zapata
+el lencero airport
+lzaro crdenas
+lzaro crdenas airport
+los mochis
+valle del fuerte international airport
+silao
+del bajo international airport
+la paz
+manuel mrquez de len international airport
+loreto
+loreto international airport
+matamoros
+general servando canales international airport
+mrida
+manuel crescencio rejn international airport
+mexicali
+general rodolfo snchez taboada international airport
+morelia
+general francisco j mujica international airport
+cosoleacaque
+minatitlncoatzacoalcos international airport
+monclova
+monclova international airport
+ciudad de mxico
+benito jurez international airport
+monterrey international airport
+mazatln
+general rafael buelna international airport
+nuevo laredo
+quetzalcatl international airport
+oaxaca
+xoxocotln international airport
+poza rica
+el tajn national airport
+puebla
+hermanos serdn international airport
+piedras negras
+piedras negras international airport
+uruapan
+uruapan  licenciado y general ignacio lopez rayon international airport
+puerto vallarta
+puerto vallarta international airport
+puerto escondido
+puerto escondido international airport
+quertaro
+quertaro intercontinental airport
+reynosa
+general lucio blanco international airport
+san jos del cabo
+los cabos international airport
+mexico city
+general felipe ngeles international airport
+san luis potos
+ponciano arriaga international airport
+torren
+francisco sarabia tinoco international airport
+tuxtla gutirrez
+angel albino corzo international airport
+tijuana
+general abelardo l rodriguez international airport
+tulum
+felipe carrillo puerto international airport
+tampico
+general francisco javier mina international airport
+toluca
+adolfo lpez mateos international airport
+tapachula
+tapachula international airport
+cancn
+cancn international airport
+villahermosa
+carlos rovirosa prez international airport
+veracruz
+general heriberto jara international airport
+zacatecas
+general leobardo c ruiz international airport
+ixtapa
+ixtapazihuatanejo international airport
+manzanillo
+playa de oro international airport
+bluefileds
+bluefields airport
+managua
+augusto c sandino managua international airport
+puerto cabezas
+puerto cabezas airport
+isla coln
+bocas del toro international airport
+chitr
+alonso valderrama airport
+changuinola
+changuinola captain manuel nio international airport
+david
+enrique malek international airport
+coln
+enrique adolfo jimenez airport
+albrook
+marcos a gelabert international airport
+ruben cantu airport
+tocumen
+tocumen international airport
+punta arenas
+buenos aires airport
+pococi
+barra del colorado airport
+corredores
+coto  airport
+golfito
+golfito airport
+guapiles airport
+liberia
+guanacaste airport
+los chiles
+los chiles airport
+puerto limon
+limon international airport
+nicoya
+nosara airport
+san jos alajuela
+juan santamara international airport
+puerto jimenez
+puerto jimenez airport
+palmar sur
+palmar sur airport
+tobas bolaos international airport
+quepos
+quepos managua airport
+upala
+upala airport
+san salvador san luis talpa
+monseor scar arnulfo romero international airport
+san salvador
+ilopango international airport
+les cayes
+antoinesimon international airport
+cap haitien
+cap haitien international airport
+jacmel
+jacmel airport
+carrefour sanon
+jrmie airport
+portauprince
+toussaint louverture international airport
+portdepaix
+portdepaix airport
+baracoa
+gustavo rizo airport
+bayamo
+carlos manuel de cespedes airport
+ciro redondo
+mximo gmez airport
+cayo coco
+jardines del rey airport
+cienfuegos
+jaime gonzalez airport
+cayo largo del sur
+vilo acua international airport
+camaguey
+ignacio agramonte international airport
+antonio maceo international airport
+guantanamo bay naval station
+leeward point field
+guantnamo
+mariana grajales airport
+havana
+jos mart international airport
+holguin
+frank pais international airport
+santa marta
+kawama airport
+pinar del rio
+la coloma airport
+moa
+orestes acosta airport
+sierra maestra international airport
+nueva gerona
+rafael cabrera airport
+playa baracoa airport
+santa clara
+abel santamaria airport
+sandino
+san julin air base
+isla de la juventud
+siguanea airport
+trinidad
+alberto delgado airport
+matanzas
+juan gualberto gomez international airport
+las tunas
+hermanos ameijeiras airport
+west end
+charles kirkconnell international airport
+blossom village
+edward bodden little cayman airfield
+george town
+owen roberts international airport
+mangrove cay
+clarence a bain airport
+andros town
+andros town airport
+andros
+congo town airport
+marsh harbour
+leonard m thompson international airport
+andros island
+san andros airport
+spring point
+spring point airport
+treasure cay
+treasure cay airport
+chub cay
+chub cay airport
+bullocks harbour
+great harbour cay airport
+south bimini
+south bimini airport
+arthurs town
+arthurs town airport
+cat island
+new bight airport
+bight airport
+colonel hill
+colonel hill airport
+moss town
+exuma international airport
+north eleuthera
+north eleuthera airport
+governors harbour
+governors harbour airport
+normans cay
+normans cay airport
+rock sound
+rock sound airport
+staniel cay
+staniel cay airport
+freeport
+grand bahama international airport
+matthew town
+inagua airport
+deadmans cay
+deadmans cay airport
+stella maris
+stella maris airport
+abraham bay settlement
+mayaguana airport
+nassau
+lynden pindling international airport
+duncan town
+duncan town airport
+san salvador airport
+philip s w goldson international airport
+placencia
+placencia airport
+avarua
+rarotonga international airport
+nadi
+nadi international airport
+nausori
+nausori international airport
+labasa
+labasa airport
+nukualofa
+fuaamotu international airport
+lifuka
+lifuka island airport
+vavau island
+vavau international airport
+funafuti
+funafuti international airport
+tarawa
+bonriki international airport
+tabiteuea north airport
+alofi
+niue international airport
+ninglang
+ninglang luguhu airport
+wallis island
+hihifo airport
+pokhara
+pokhara international airport
+apia
+faleolo international airport
+pago pago
+pago pago international airport
+papeete
+faaa international airport
+rurutu airport
+tubuai airport
+anaa
+anaa airport
+fangatau
+fangatau airport
+tikehau airport
+reao
+reao airport
+fakarava airport
+manihi airport
+totegegie airport
+raitahiti
+kaukura airport
+makemo
+makemo airport
+takapoto airport
+arutua airport
+mataiva airport
+ahe atoll
+ahe airport
+takaroa airport
+nuku hiva
+nuku hiva airport
+hiva oa island
+hiva oaatuona airport
+motu mute
+bora bora airport
+rangiroa airport
+fare
+huahinefare airport
+mooreamaiao
+moorea temae airport
+otepa
+hao airport
+maupiti airport
+uturoa
+raiatea airport
+gaua island
+gaua island airport
+luganville
+santo pekoa international airport
+port vila
+bauerfield international airport
+tanna airport
+tiga
+tiga airport
+kon
+kon airport
+le des pins
+le des pins airport
+lifou
+lifou airport
+nouma
+nouma magenta airport
+mar
+mar airport
+touho
+touho airport
+ouva
+ouva airport
+nouma la tontouta
+la tontouta international airport
+auckland
+auckland international airport
+taupo
+taupo airport
+manurewa
+ardmore airport
+christchurch
+christchurch international airport
+te one
+chatham islands  tuuta airport
+dunedin
+dunedin international airport
+gisborne
+gisborne airport
+glentanner station
+glentanner airport
+hokitika airfield
+hamilton international airport
+kerikeri
+kerikeri airport
+awanui
+kaitaia airport
+alexandra
+alexandra aerodrome
+mount cook airport
+manapouri airport
+masterton
+hood airport
+plymouth
+new plymouth
+new plymouth airport
+plymouth airport
+napier
+hawkes bay airport
+nelson
+nelson airport
+invercargill
+invercargill airport
+rnzaf base ohakea
+oamaru airport
+palmerston north
+palmerston north airport
+paraparaumu airport
+queenstown international airport
+rotorua
+rotorua regional airport
+tauranga
+tauranga airport
+timaru airport
+twitzel
+pukaki airport
+blenheim
+woodbourne airport
+wanaka
+wanaka airport
+whakatane airport
+wellington
+wellington international airport
+wairoa
+wairoa airport
+whangarei
+whangarei airport
+westport
+westport airport
+wanganui
+wanganui airport
+guzara
+herat  khwaja abdullah ansari international airport
+bagram
+bagram airfield
+jalalabad
+jalalabad airport
+kabul
+kabul international airport
+khvoshab
+ahmad shah baba international airport  kandahar airfield
+khost
+khost international airport
+maymana
+maymana zahiraddin faryabi airport
+mazarisharif
+mazarisharif international airport
+kunduz
+kunduz airport
+manama
+bahrain international airport
+abha
+abha international airport
+hofuf
+alahsa international airport
+al ula
+majeed bin abdulaziz airport
+albaha
+king saud bin abdulaziz al baha airport
+bisha
+bisha airport
+ad dammam
+king fahd international airport
+dawadmi
+king salman abdulaziz airport
+dhahran
+king abdulaziz air base
+jizan
+jizan regional airport  king abdullah bin abdulaziz airport
+buraidah
+gassim airport
+gurayat
+gurayat domestic airport
+hail
+hail airport
+jubail
+jubail airport
+jeddah
+king abdulaziz international airport
+king khaled military city
+king khaled military city airport
+khamis mushait
+king khalid air base
+medina
+prince mohammad bin abdulaziz airport
+najran
+najran domestic airport
+sharma
+neom bay airport
+qaisumah
+al qaisumahhafr al batin airport
+al kharj
+prince sultan air base
+rafha
+rafha domestic airport
+riyadh
+king khaled international airport
+arar
+arar domestic airport
+sharurah
+sharurah domestic airport
+aljawf
+aljawf domestic airport
+tabuk
+tabuk airport
+taif
+taif regional airport
+turaif
+turaif domestic airport
+wadi al dawasir
+wadi al dawasir domestic airport
+al wajh
+al wajh domestic airport
+yanbu
+prince abdul mohsin bin abdulaziz international airport  yanbu airport
+abadan
+abadan airport
+dezful
+dezful airport
+aghajari
+aghajari airport
+gachsaran
+gachsaran airport
+masjed soleyman
+shahid asiyaee airport
+mahshahr
+mahshahr airport
+ahvaz
+lieutenant general qasem soleimani international airport
+abu musa
+abu musa island airport
+bushehr
+bushehr airport
+jam
+jam airport
+kish island
+kish international airport
+bandar lengeh
+bandar lengeh international airport
+khiyaroo
+persian gulf international airport
+khark
+khark airport
+siri
+siri airport
+lavan airport
+kermanshah
+shahid ashrafi esfahani airport
+ilam
+ilam airport
+khoram abad airport
+sanandaj airport
+kashan
+kashan airport
+isfahan
+isfahan shahid beheshti international airport
+shahrekord
+shahrekord airport
+rasht
+sardarejangal airport
+hamadan
+hamadan airport
+amirabad
+nojeh air base
+tehran
+imam khomeini international airport
+mehrabad international airport
+qazvin
+qazvin airport
+karaj
+payam karaj international airport
+bandar abbas
+bandar abbas international airport
+jiroft
+jiroft airport
+kerman
+ayatollah hashemi rafsanjani international airport
+bam
+bam airport
+rafsanjan
+rafsanjan airport
+sirjan
+sirjan airport
+birjand
+birjand international airport
+sarakhs
+sarakhs airport
+mashhad
+mashhad international airport
+bojnord
+bojnord airport
+sabzevar
+sabzevar national airport
+tabas
+tabas airport
+gorgan
+gorgan airport
+nowshahr
+nowshahr airport
+ramsar
+ramsar airport
+sari
+sari dashte naz international airport
+fasa
+fasa airport
+lar
+lar airport
+lamerd
+lamerd airport
+shiraz
+shiraz shahid dastghaib international airport
+yasuj
+yasuj airport
+ardabil
+ardabil airport
+urmia
+urmia airport
+tabriz
+tabriz international airport
+showt
+maku national airport
+zanjan
+zanjan airport
+yazd
+shahid sadooghi airport
+zabol
+zabol airport
+konarak
+chabahar konarak international airport
+zahedan
+zahedan international airport
+iranshahr
+iranshahr airport
+amman
+queen alia international airport
+amman civil marka international airport
+aqaba
+aqaba king hussein international airport
+ahmed al jaber ab
+ahmed al jaber air base
+kuwait city
+kuwait international airport
+beirut
+beirut rafic hariri international airport
+rene mouawad air base  kleyate airport
+duqm
+duqm international airport
+al masnaah
+mussanah airport
+abu dhabi
+zayed international airport
+al bateen executive airport
+al ain
+al ain international airport
+al dhafra air base
+sir bani yas
+sir bani yas airport
+dubai
+dubai international airport
+al minhad air base
+jebel ali
+al maktoum international airport
+fujairah
+fujairah international airport
+ras al khaimah
+ras al khaimah international airport
+sharjah
+sharjah international airport
+khasab
+khasab airport
+masirah
+rafo masirah
+muscat
+muscat international airport
+salalah
+salalah airport
+thumrait
+thumrait air base
+bahawalpur
+bahawalpur airport
+chitral
+chitral airport
+dera ghazi khan
+dera ghazi khan airport
+dera ismael khan
+dera ismael khan airport
+faisalabad
+faisalabad international airport
+gurandani
+new gwadar international airport
+gwadar international airport
+gilgit
+gilgit airport
+attock
+islamabad international airport
+jacobabad
+shahbaz air base
+karachi
+jinnah international airport
+lahore
+allama iqbal international airport
+mangla
+mangla airport
+muzaffarabad
+muzaffarabad airport
+mianwali
+mianwali air base
+moenjodaro
+moenjodaro airport
+kamra
+minhas air base
+multan
+multan international airport
+nawabashah
+shaheed benazirabad airport
+panjgur
+panjgur airport
+pasni
+pasni airport
+peshawar
+peshawar international airport
+quetta
+quetta international airport
+rahim yar khan
+shaikh zaid airport
+rawalakot
+rawalakot airport
+skardu
+skardu airport
+mirpur khas
+sukkur airport
+sehwan sharif
+sehwan sharif airport
+sargodha
+mushaf air base
+saidu sharif
+saidu sharif airport
+sialkot
+sialkot international airport
+sui
+sui airport
+turbat
+turbat international airport
+fort sandeman
+zhob airport
+ht
+al asad air base
+al habbaniyah
+al taqaddum air base
+baghdad
+baghdad international airport  new al muthana air base
+mosul
+mosul international airport
+arbil
+erbil international airport
+kirkuk
+kirkuk air base
+basra
+basra international airport
+najaf
+al najaf international airport
+qayyarah
+qayyarah west airport
+sulaymaniyah
+sulaymaniyah international airport
+nasiriyah
+ali air base
+aleppo
+aleppo international airport
+damascus
+damascus international airport
+deir ezzor
+deir ezzor airport
+qamishly
+qamishli airport
+latakia
+hmeimim air base
+tadmur
+palmyra airport
+doha
+doha international airport
+ar rayyan
+al udeid air base
+hamad international airport
+aden
+aden international airport
+ataq
+ataq airport
+al ghaydah
+al ghaydah international airport
+riyan
+riyan mukalla international airport
+sanaa
+sanaa international airport
+mori
+socotra international airport
+seiyun
+seiyun hadhramaut international airport
+taizz
+taizz international airport
+palmer
+warren bud woods palmer municipal airport
+barter island
+barter island long range radar station airport
+bethel
+bethel airport
+delta junction ft greely
+allen army airfield
+utqiavik
+wiley post will rogers memorial airport
+cold bay
+cold bay airport
+cordova
+merle k mudhole smith airport
+cape romanzof
+cape romanzof lrrs airport
+deering
+deering airport
+adak
+adak airport
+dillingham
+dillingham airport
+kodiak
+kodiak airport
+unalaska
+tom madsen dutch harbor airport
+anchorage
+elmendorf air force base
+cape newenham
+cape newenham lrrs airport
+fairbanks
+eielson air force base
+emmonak
+emmonak airport
+kenai
+kenai municipal airport
+fairbanks international airport
+ladd army airfield
+ambler
+ambler airport
+galena
+edward g pitka sr airport
+gulkana
+gulkana airport
+gambell
+gambell airport
+gustavus
+gustavus airport
+holy cross
+holy cross airport
+huslia
+huslia airport
+haines
+haines airport
+homer
+homer airport
+egegik
+egegik airport
+kiana
+bob baker memorial airport
+iliamna
+iliamna airport
+utopia creek
+indian mountain lrrs airport
+juneau
+juneau international airport
+king salmon
+king salmon airport
+anaktuvuk pass
+anaktuvuk pass airport
+ketchikan
+ketchikan international airport
+klawock
+klawock airport
+cape lisburne
+cape lisburne lrrs airport
+mcgrath
+mcgrath airport
+merrill field
+mekoryuk
+mekoryuk airport
+ted stevens anchorage international airport
+aniak
+aniak airport
+nenana
+nenana municipal airport
+metlakatla
+annette island airport
+anvik
+anvik airport
+nome
+nome airport
+northway
+northway airport
+kotzebue
+ralph wien memorial airport
+st george airport
+port clarence
+port clarence coast guard station
+petersburg
+petersburg james a johnson airport
+port heiden
+port heiden airport
+platinum
+platinum airport
+nuiqsut
+nuiqsut airport
+arctic village
+arctic village airport
+ruby
+ruby airport
+savoonga
+savoonga airport
+deadhorse
+deadhorse airport
+sand point
+sand point airport
+sitka
+sitka rocky gutierrez airport
+paul island
+st paul island
+st paul island airport
+paul island airport
+sparrevohn
+sparrevohn lrrs airport
+soldotna
+soldotna airport
+shemya
+eareckson air station
+talkeetna
+talkeetna airport
+takotna
+tatalina lrrs airport
+atqasuk
+atqasuk edward burnell sr memorial airport
+unalakleet
+unalakleet airport
+valdez
+valdez pioneer field
+seward
+seward airport
+wrangell
+wrangell airport
+wainwright
+wainwright airport
+wasilla
+wasilla airport
+yakutat
+yakutat airport
+abariringa
+canton island airport
+fort yukon
+fort yukon airport
+rota island
+rota international airport
+i fadang saipan
+saipan international airport
+yigo
+andersen air force base
+hagta
+antonio b won pat international airport
+tinian island
+tinian international airport
+kekaha
+barking sands airport
+hana
+hana airport
+honolulu
+hickam air force base
+lahaina
+kapalua airport
+kapolei
+kalaeloa airport
+kailuakona
+ellison onizuka kona international airport at keahole
+lihue
+lihue airport
+kaunakakai
+molokai airport
+waimea kamuela
+waimea kohala airport
+kaneohe
+kaneohe bay mcas marion e carl field airport
+honolulu oahu
+daniel k inouye international airport
+lanai city
+lanai airport
+kahului
+kahului international airport
+hilo
+hilo international airport
+majuro atoll
+marshall islands international airport
+kwajalein
+bucholz army air field
+kiritimati
+cassidy international airport
+sand island
+henderson field
+point lay
+point lay lrrs airport
+weno island
+chuuk international airport
+pohnpei island
+pohnpei international airport
+babelthuap island
+babelthuap airport
+okat
+kosrae international airport
+yap island
+yap international airport
+wake island
+wake island airfield
+shangi
+kinmen airport
+matsu nangan
+matsu nangan airport
+taitung city
+taitung airport
+kaohsiung xiaogang
+kaohsiung international airport
+shuishang
+chiayi airport
+hengchun
+hengchun airport
+orchid island
+lanyu airport
+taichung qingshui
+taichung international airport  ching chuang kang air base
+matsu beigan
+matsu beigan airport
+tainan rende
+tainan international airport  tainan air base
+hsinchu city
+hsinchu air base
+huxi
+penghu magong airport
+pingtung
+pingtung air force base north
+taipei songshan
+taipei songshan airport
+taoyuan
+taiwan taoyuan international airport
+hualien city
+hualien airport
+narita
+narita international airport
+matsumoto
+shinshumatsumoto airport
+omitama
+ibaraki airport  jasdf hyakuri air base
+ogasawara
+ioto iwo jima airbase
+osaka
+kansai international airport
+shirahama
+nanki shirahama airport
+kobe
+kobe airport
+toyooka
+konotori tajima airport
+obihiro
+tokachiobihiro airport
+sapporo
+chitose airport
+new chitose airport
+hakodate
+hakodate airport
+kushiro
+kushiro airport
+zora
+memanbetsu airport
+nakashibetsu
+nakashibetsu airport
+sapporo okadama airport
+wakkanai
+wakkanai airport
+iki
+iki airport
+ube
+yamaguchi ube airport
+tsushima
+tsushima airport
+monbetsu
+monbetsu airport
+higashikagura
+asahikawa airport
+okushiri island
+okushiri airport
+rishiri
+rishiri airport
+yakushima
+yakushima airport
+goto
+fukue airport
+fukuoka
+fukuoka airport
+tanegashima
+tanegashima airport
+new tanegashima airport
+kagoshima
+kagoshima airport
+miyazaki
+miyazaki airport
+oita
+oita airport
+kitakyushu
+kitakyushu airport
+saga
+saga airport
+kumamoto
+kumamoto airport
+nagasaki
+nagasaki airport
+tokoname
+chubu centrair international airport
+amami
+amami airport
+wadomari
+okinoerabu airport
+kikai
+kikai airport
+amagi
+tokunoshima airport
+nagoya
+nagoya airport  jasdf komaki air base
+fukui
+fukui airport
+gifu
+gifu airport
+kanazawa
+komatsu airport  jasdf komatsu air base
+okinoshima
+oki global geopark airport
+makinohara  shimada
+mount fuji shizuoka airport
+toyama
+toyama airport
+wajima
+noto satoyama airport
+hiroshima
+hiroshima airport
+okayama
+okayama momotaro airport
+izumo
+izumo enmusubi airport
+yonago
+yonago kitaro airport  jasdf miho air base
+iwakuni
+iwakuni kintaikyo airport  marine corps air station iwakuni
+nankoku
+kochi ryoma airport
+matsuyama
+matsuyama airport
+osaka international airport
+tottori
+tottori sand dunes conan airport
+tokushima
+tokushima awaodori airport  jmsdf tokushima air base
+takamatsu
+takamatsu airport
+masuda
+iwami airport
+aomori
+aomori airport
+higashine
+yamagata airport
+sado
+sado airport
+sukagawa
+fukushima airport
+hachinohe
+jmsdf hachinohe air base  hachinohe airport
+hanamaki
+iwate hanamaki airport
+akita
+akita airport
+misawa
+misawa airport  misawa air base
+niigata
+niigata airport
+kitaakita
+odate noshiro airport
+natori
+sendai airport
+shonai
+shonai airport
+ayase  yamato
+jmsdf atsugi air base  naval air facility atsugi
+hachijojima
+hachijojima airport
+izu oshima
+oshima airport
+miyakejima
+miyakejima airport
+tokyo
+tokyo haneda international airport
+fussa
+yokota air base
+muan piseori
+muan international airport
+gwangju
+gwangju airport
+gunsan
+gunsan airport  gunsan air base
+yeosu
+yeosu airport
+gangneung
+gangneung airport k
+wonju
+wonju airport  hoengseong air base kk
+gonghangro
+yangyang international airport
+jeju city
+jeju international airport
+jeju island
+jeongseok airport
+busan
+gimhae international airport
+sacheon
+sacheon airport  sacheon air base
+ulsan
+ulsan airport
+seoul
+incheon international airport
+seongnam
+seoul air base k
+pyeongtaek
+osan air base
+gimpo international airport
+suwon
+suwon airport
+pohang
+pohang airport gk
+gimseangro
+jungwon air basechungju airport
+daegu
+daegu airport
+cheongju
+cheongju international airportcheongju air base kg
+yecheonri
+yecheon airbase
+naha
+naha airport  jasdf naha air base
+okinawa
+kadena air base
+ishigaki
+new ishigaki airport
+ishigaki airport
+kumejima
+kumejima airport
+minamidaito
+minamidaito airport
+miyakojima
+miyako airport
+ie
+iejima airport
+kitadaitjima
+kitadaito airport
+shimojishima airport
+tarama
+tarama airport
+yoron
+yoron airport
+yonaguni
+yonaguni airport
+olongapo
+subic bay international airport  naval air station cubi point
+mabalacat
+clark international airport  clark air base
+lallo
+cagayan north international airport
+laoag city
+laoag international airport
+legazpi
+bicol international airport
+manila pasay
+ninoy aquino international airport
+cavite
+danilo atienza air base
+lubang
+lubang airport
+surallah
+allah valley airport
+datu odin sinsuat
+cotabato awang airport
+davao
+francisco bangoy international airport
+butuan
+bancasi airport
+bislig
+bislig airport
+dipolog
+dipolog airport
+mambajao
+camiguin airport
+jolo
+jolo airport
+bongao
+sanga sanga airport
+ozamiz
+labo airport
+pagadian
+pagadian airport
+mati
+mati national airport
+general santos
+general santos international airport
+surigao city
+surigao airport
+tandag
+tandag airport
+laguindingan
+laguindingan international airport
+zamboanga
+zamboanga international airport
+panglao
+boholpanglao international airport
+baguio
+loakan airport
+daet
+daet airport
+san jose airport
+mamburao
+mamburao airport
+naga
+naga airport
+basco
+basco airport
+baler
+dr juan c angara airport
+san fernando
+san fernando airport
+tuguegarao city
+tuguegarao airport
+virac
+virac airport
+gasan
+marinduque airport
+cauayan city
+cauayan airport
+tacloban city
+daniel z romualdez airport
+bacolod city
+bacolodsilay airport
+calbayog city
+calbayog airport
+dumaguete city
+sibulan airport
+caticlan
+godofredo p ramos airport
+catarman
+catarman national airport
+cabatuan
+iloilo international airport
+masbate
+moises r espinosa airport
+kalibo
+kalibo international airport
+lapulapu city
+mactan cebu international airport
+ormoc city
+ormoc airport
+puerto princesa
+puerto princesa international airport  paf antonio bautista air base
+roxas city
+roxas airport
+evelio javier airport
+tablas island
+tugdan airport
+coron
+francisco b reyes busuanga airport
+hanak
+red sea international airport
+krymsk
+krymsk air base
+smolensk
+smolensk north airport
+yeysk
+yeysk airport
+concordia
+comodoro pierrestegui airport
+gualeguaychu
+gualeguaychu airport
+parana
+general urquiza airport
+rosario
+rosario islas malvinas international airport
+sauce viejo airport
+buenos aires
+jorge newbery airpark
+cordoba
+ingeniero ambrosio taravella airport
+la plata
+la plata airport
+el palomar
+el palomar airport
+buenos aires ezeiza
+minister pistarini international airport
+rincon de los sauces
+rincon de los sauces airport
+zapala
+zapala airport
+mendoza
+el plumerillo airport
+malargue
+comodoro dr salomn airport
+san rafael
+suboficial ay santiago germano airport
+catamarca
+coronel felipe varela international airport
+santiago del estero
+vicecomodoro angel d la paz aragons airport
+la rioja
+capitan v a almonacid airport
+termas de ro hondo
+termas de ro hondo international airport
+san miguel de tucumn
+teniente benjamin matienzo airport
+san juan
+domingo faustino sarmiento airport
+rio cuarto
+area de material airport
+villa dolores
+villa dolores airport
+villa mercedes
+villa reynolds airport
+san luis
+brigadier mayor d cesar raul ojeda airport
+corrientes
+corrientes airport
+resistencia
+resistencia international airport
+formosa
+formosa national airport
+puerto iguazu
+cataratas del iguaz international airport
+paso de los libres
+paso de los libres airport
+monte caseros
+monte caseros airport
+posadas
+libertador gral d jose de san martin airport
+salta
+martin miguel de guemes international airport
+san salvador de jujuy
+gobernador horacio guzman international airport
+orn
+orn airport
+tartagal
+general enrique mosconi airport
+goya
+goya airport
+reconquista
+reconquista airport
+curuzu cuatia
+curuzu cuatia airport
+el bolsn
+el bolsn airfield
+comodoro rivadavia
+general e mosconi airport
+esquel
+esquel brigadier antonio parodi international airport
+las heras
+las heras airport
+rawson
+almirante marco andres zar airport
+viedma  carmen de patagones
+gobernador castello airport
+puerto madryn
+el tehuelche airport
+el calafate
+el calafate  commander armando tola international airport
+puerto deseado
+puerto deseado airport
+rio grande
+gobernador ramn trejo noel international airport
+rio gallegos
+piloto civil n fernndez airport
+ushuaia
+ushuaia  malvinas argentinas international airport
+san julian
+capitan d daniel vazquez airport
+perito moreno
+perito moreno jalil hamer airport
+puerto santa cruz
+santa cruz airport
+baha blanca
+comandante espora airport
+general pico
+general pico airport
+tres arroyos
+tres arroyos airport
+santa teresita
+santa teresita airport
+mar del plata
+stor piazzola international airport
+neuquen
+presidente peron airport
+necochea
+necochea airport
+pehuaj
+comodoro pedro zanni airport
+santa rosa airport
+san carlos de bariloche
+san carlos de bariloche airport
+tandil
+hroes de malvinas airport
+villa gesell
+villa gesell airport
+cutralco
+cutralco airport
+chapelcosan martin de los andes
+aviador c campos airport
+conceio do araguaia
+conceio do araguaia airport
+aracati
+aracati drago do mar regional airport
+bauru
+bauruarealvamoussa nakhal tobias state airport
+araraquara
+araraquara airport
+aracaju
+aracaju  santa maria international airport
+alta floresta
+piloto osvaldo marques dias airport
+araatuba
+araatuba airport
+arax
+romeu zema airport
+belm
+val de cansjlio cezar ribeiro international airport
+bag
+comandante gustavo kraemer airport
+belo horizonte
+pampulha  carlos drummond de andrade airport
+curitiba
+bacacheri airport
+braslia
+presidente juscelino kubitschek international airport
+barretos
+chafei amsei airport
+boa vista
+atlas brasil cantanhede airport
+barra do garas
+barra do garas airport
+cabo frio
+umberto modiano airport
+cascavel
+coronel adalberto mendes da silva airport
+tancredo neves international airport
+campo grande
+campo grande airport
+chapec
+serafin enoss bertaso airport
+carolina
+brig lysias augusto rodrigues airport
+parauapebas
+carajs airport
+cricima
+forquilhinha  cricima  airport
+porto alegre
+canoas air force base
+campos dos goytacazes
+bartolomeu lisandro airport
+corumb
+corumb international airport
+afonso pena airport
+caravelas
+caravelas airport
+caxias do sul
+hugo cantergiani regional airport
+cuiab
+marechal rondon airport
+cruzeiro do sul
+cruzeiro do sul airport
+presidente prudente
+presidente prudente airport
+manaus
+eduardo gomes international airport
+jacareacanga
+jacareacanga airport
+foz do iguau
+cataratas international airport
+florianpolis
+herclio luz international airport
+fernando de noronha
+fernando de noronha airport
+fortaleza
+pinto martins international airport
+rio de janeiro
+rio galeo  tom jobim international airport
+guajarmirim
+guajarmirim airport
+goinia
+santa genoveva airport
+so paulo
+guarulhos  governador andr franco montoro international airport
+governador valadares
+coronel altino machado airport
+guaratinguet
+edu chaves field
+altamira
+altamira interstate airport
+itacoatiara
+itacoatiara airport
+itaituba
+itaituba airport
+ilhus
+bahia  jorge amado airport
+ipatinga
+usiminas airport
+imperatriz
+prefeito renato moreira airport
+cruz
+comandante ariston pessoa airport
+juiz de fora
+francisco de assis airport
+so roque
+so paulo catarina executive airport
+joo pessoa
+presidente castro pinto international airport
+joinville
+lauro carneiro de loyola airport
+campina grande
+presidente joo suassuna airport
+campinas
+viracopos international airport
+lages
+lages airport
+lins
+lins airport
+londrina
+governor jos richa airport
+bom jesus da lapa
+bom jesus da lapa airport
+marab
+joo correa da rocha airport
+minau
+minau airport
+almeirim
+monte dourado  serra do areo airport
+maca
+maca benedito lacerda airport
+maring
+regional de maring  slvio name jnior airport
+montes claros
+mrio ribeiro airport
+marlia
+frank miloye milenkowichimarlia state airport
+ponta pelada airport  manaus air base
+macei
+zumbi dos palmares airport
+macap
+macap  alberto alcolumbre international airport
+mossor
+dixsept rosado airport
+campo de marte airport
+manicor
+manicor airport
+navegantes
+ministro victor konder international airport
+santo ngelo
+santo ngelo airport
+oiapoque
+oiapoque airport
+salgado filho international airport
+parnaba
+parnaba  prefeito doutor joo silva filho international airport
+poos de caldas
+poos de caldas  embaixador walther moreira salles airport
+passo fundo
+lauro kurtz airport
+ponta grossa
+ponta grossa airport  comandante antonio amilton beraldo
+palmas
+brigadeiro lysias rodrigues airport
+pelotas
+joo simes lopes neto international airport
+petrolina
+senador nilo coelho airport
+porto nacional
+porto nacional airport
+ponta por
+ponta por airport
+porto seguro
+porto seguro airport
+porto velho
+governador jorge teixeira de oliveira airport
+rio branco
+rio brancoplcido de castro international airport
+rondonpolis
+maestro marinho franco airport
+recife
+recifeguararapes  gilberto freyre international airport
+santos dumont airport
+ribeiro preto
+leite lopes airport
+santa cruz air force base
+natal
+so gonalo do amarante  governador aluzio alves international airport
+so jos dos campos
+professor urbano ernesto stumpf airport
+so lus
+marechal cunha machado international airport
+santarm
+santarm  maestro wilson fonseca international airport
+congonhas airport
+so jos do rio preto
+prof eribelto manoel reino state airport
+guaruj
+santos nero moura air base  guaruj airport
+salvador
+deputado luiz eduardo magalhes international airport
+oriximin
+trombetas airport
+teresina
+senador petrnio portela airport
+tef
+tef airport
+tarauac
+tarauac airport
+telmaco borba
+telmaco borba airport
+tabatinga
+tabatinga airport
+tucuru
+tucuru airport
+so gabriel da cachoeira
+so gabriel da cachoeira airport
+paulo afonso
+paulo afonso airport
+uruguaiana
+rubem berta airport
+uberlndia
+ten cel aviador csar bombonato airport
+uberaba
+mrio de almeida franco airport
+varginha
+major brigadeiro trompowsky airport
+vilhena
+brigadeiro camaro airport
+vitria
+eurico de aguiar salles airport
+pirassununga
+campo fontenelle
+presidente itamar franco airport
+arica
+chacalluta airport
+copiapo
+desierto de atacama airport
+balmaceda
+balmaceda airport
+tocopilla
+barriles airport
+chile chico
+chile chico airport
+calama
+el loa airport
+chillan
+gral bernardo ohiggins airport
+president carlos ibaez del campo international airport
+coyhaique
+teniente vidal airport
+iquique
+diego aracena airport
+comodoro arturo merino bentez international airport
+el salvador
+ricardo garca posada airport
+antofagasta
+andrs sabella glvez international airport
+porvenir
+captain fuentes martinez airport
+puerto williams
+guardia marina zaartu airport
+concepcion
+carriel sur airport
+isla de pascua
+mataveri airport
+osorno
+caal bajo carlos hott siebert airport
+vallenar
+vallenar airport
+puerto natales
+lieutenant julio gallardo airport
+temuco
+la araucana airport
+chaaral
+chaaral airport
+la serenacoquimbo
+la florida airport
+maquehue airport
+puerto montt
+el tepual airport
+talca
+panguilemo airport
+chaitn
+nuevo chaitn airport
+victoria airport
+taltal
+las breas airport
+valdivia
+pichoy airport
+via del mar
+via del mar airport
+ambato
+chachon regional airport
+coca
+francisco de orellana airport
+cuenca
+mariscal lamar airport
+guayaquil
+jos joaqun de olmedo international airport
+ahuano
+jumandy airport
+latacunga
+cotopaxi international airport
+macar
+jose maria velasco ibarra airport
+macas
+coronel e carvajal airport
+manta
+eloy alfaro international airport
+portoviejo
+reales tamarindos airport
+quito
+mariscal sucre international airport
+santa rosa  artillery colonel victor larrea international airport
+general ulpiano paez airport
+tachina
+carlos concha torres international airport
+tarapoa
+tarapoa airport
+tulcn
+lieutenant colonel luis a mantilla international airport
+stanley
+port stanley airport
+asuncin
+aeropuerto internacional silvio pettirossi
+ayolas
+juan de ayolas national airport
+concepcin
+lieutenant colonel carmelo peralta national airport
+encarnacin
+lieutenant amin ayub gonzlez international airport
+ciudad del este
+guaran international airport
+mariscal estigarribia
+doctor luis maria argaa international airport
+pilar
+aerdromo don carlos miguel gimenez
+pedro juan caballero
+dr augusto roberto fuster airport
+apiay
+gomez nino apiay air base
+armenia
+el eden airport
+puerto ass
+tres de mayo airport
+el banco
+las flores airport
+bucaramanga
+palonegro airport
+bogota
+el dorado international airport
+barranquilla
+ernesto cortissoz international airport
+baha solano
+jos celestino mutis airport
+buenaventura
+gerardo tobar lpez airport
+ccuta
+camilo daza international airport
+cartagena
+rafael nuez international airport
+cali
+alfonso bonilla aragon international airport
+tumaco
+caucasia
+juan h white airport
+coveas
+coveas airport
+las brujas airport
+el bagre
+el bagre airport
+barrancabermeja
+yarigues airport
+florencia
+gustavo artunduaga paredes airport
+girardot
+santiago vila airport
+cartago
+santa ana airport
+guapi
+juan casiano airport
+ibagu
+perales airport
+ipiales
+san luis airport
+carepa
+antonio roldn betancur airport
+la minamaicao
+jorge isaac airport
+leticia
+alfredo vsquez cobo international airport
+medelln
+enrique olaya herrera airport
+magangu
+baracoa airport
+montera
+los garzones airport
+mit
+fabio alberto leon bentley airport
+manizales
+la nubia airport
+neiva
+benito salas airport
+ocaa
+aguas claras airport
+puerto carreo
+german olano airport
+puerto inrida
+obando cesar gaviria trujillo airport
+pereira
+matecaa international airport
+pitalito
+pitalito airport
+popayn
+guillermo len valencia airport
+la dorada
+german olano air base
+chachag
+antonio nario airport
+providencia
+el embrujo airport
+paz de ariporo
+paz de ariporo airport
+mariquita
+mariquita airport
+jose maria crdova international airport
+riohacha
+almirante padilla airport
+san jos del guaviare
+jorge e gonzalez torres airport
+simn bolvar international airport
+san andrs
+gustavo rojas pinilla international airport
+san vicente del cagun
+eduardo falla solano airport
+tame
+gustavo vargas airport
+tres esquinas
+captain ernesto esguerra cubides air base
+arauca
+santiago perez airport
+quibd
+el carao airport
+tulu
+heriberto gl martnez airport
+valledupar
+alfonso lpez pumarejo airport
+villavicencio
+vanguardia airport
+yopal
+el alcaravan  yopal airport
+yamparaez
+alcantar airport
+bermejo
+bermejo airport
+cochabamba
+jorge wilsterman international airport
+cobija
+capitn anbal arab airport
+santa cruz
+el trompillo airport
+guayaramern
+guayaramern airport
+la paz  el alto
+el alto international airport
+oruro
+juan mendoza airport
+potos
+capitan nicolas rojas airport
+puerto surez
+capitn av salvador ogaya g airport
+riberalta
+capitn av selin zeitun lopez airport
+santa ana del yacuma
+santa ana del yacuma airport
+tarija
+capitan oriel lea plaza airport
+teniente av jorge henrich arauz airport
+villamontes
+teniente coronel rafael pabn airport
+viru viru international airport
+yacuba
+yacuiba airport
+zandery
+johan adolf pengel international airport
+sobral
+dr luciano de arruda coelho regional airport
+correia pinto
+planalto serrano regional airport
+linhares
+linhares municipal airport
+matoury
+cayenne  flix ebou airport
+saintgeorgesdeloyapock
+saintgeorgesdeloyapock airport
+atalaya
+teniente general gerardo prez pinedo airport
+iberia airport
+pucallpa
+cap fap david abenzur rengifo international airport
+chimbote
+fap lieutenant jaime andres de montreuil morales airport
+chiclayo
+air force captain jose a quinones gonzales international airport
+ayacucho
+air force colonel alfredo mendivil duarte airport
+anta
+comandante fap german arias graziani airport
+lima
+jorge chvez international airport
+rioja
+juan simons vela airport
+jan
+shumba airport
+juanju
+juanjui airport
+jauja
+francisco carle airport
+juliaca
+inca manco capac international airport
+cajamarca
+mayor general fap armando revoredo iglesias airport
+ilo
+general jorge fernandez maldon airport
+tumbes
+captain pedro canga rodrguez international airport
+yurimaguas
+moises benzaquen rengifo airport
+hunuco
+alferez fap david figueroa fernandini airport
+chachapoyas
+chachapoyas airport
+iquitos
+coronel fap francisco secada vignetta international airport
+arequipa
+rodrguez balln international airport
+capitan fap carlos martinez de pinillos international airport
+pisco
+captain renn elas olivera international airport
+tarapoto
+cadete fap guillermo del castillo paredes airport
+tacna
+coronel fap carlos ciriani santa rosa international airport
+puerto maldonado
+padre aldamiz international airport
+piura
+capitn fap guillermo concha iberico international airport
+talara
+captain victor montes arias international airport
+nazca
+maria reiche neuman airport
+cusco
+alejandro velasco astete international airport
+durazno
+santa bernardina international airport
+punta del este
+capitan corbeta ca curbelo international airport
+ciudad de la costa
+carrasco general cesreo l berisso international airport
+paysand
+tydeo larre borges airport
+salto
+nueva hesperides international airport
+acarigua
+oswaldo guevara mujica airport
+anaco
+anaco airport
+general jos antonio anzoategui international airport
+barinas
+barinas airport
+barquisimeto
+barquisimeto international airport
+maracay
+escuela mariscal sucre airport
+ciudad bolivar
+general tomas de heres airport
+caicara del orinoco airport
+guarico
+calabozo airport
+canaima
+canaima airport
+carpano
+general francisco bermdez airport
+coro
+jos leonardo chirinos airport
+cuman antonio jos de sucre airport
+bolivar
+el dorado airport
+elorza airport
+guasdualito
+guasdualito airport
+guiria airport
+guanare
+guanare airport
+paraguan
+josefa camejo international airport
+la fria airport
+maracaibo
+la chinita international airport
+alberto carnevalli airport
+isla margarita
+del caribe santiago mario international airport
+maiqueta
+maiqueta simn bolvar international airport
+maturn
+jos tadeo monagas international airport
+puerto ayacucho
+cacique aramare airport
+puerto cabello
+general bartolome salom international airport
+san cristbal
+paramillo airport
+puerto ordazciudad guayana
+general manuel carlos piar international airport
+palmarito
+palmarito airport
+san antonio del tachira airport
+santa elena de uairn
+santa elena de uairen airport
+mayor buenaventura vivas international airport
+san felipe
+sub teniente nestor arias airport
+san fernando de apure
+san fernando de apure las flecheras national airport
+el tigre
+san tom airport
+san carlos del zulia
+miguel urdaneta fernndez airport
+tucupita
+tucupita airport
+tumeremo airport
+arturo michelena international airport
+el viga
+juan pablo prez alfonso airport
+valera
+dr antonio nicols briceo airport
+valle de la pascua airport
+araguana
+araguana airport
+georgetown
+cheddi jagan international airport
+ogle
+eugene f correira international airport
+kaieteur falls
+kaieteur international airport
+lethem
+lethem airport
+osbourn
+v c bird international airport
+codrington
+codrington airport
+bridgetown
+grantley adams international airport
+canefield
+canefield airport
+marigot
+douglascharles airport
+fortdefrance
+martinique aim csaire international airport
+grand case
+grand caselesprance airport
+gustavia
+saint barthlemy  gustaf iii airport
+barthlemy  gustaf iii airport
+grandbourg
+mariegalante airport
+pointepitre
+guadeloupe  maryse cond international airport
+georges
+saint georges
+maurice bishop international airport
+charlotte amalie
+cyril e king airport
+christiansted
+henry e rohlsen airport
+arecibo
+antonio nery juarbe pol airport
+aguadilla
+rafael hernndez international airport
+culebra
+benjamin rivera noriega airport
+fernando luis ribas dominicci airport
+mayaguez
+eugenio maria de hostos airport
+ponce
+mercedita airport
+ceiba
+jos aponte de la torre airport
+luis munoz marin international airport
+vieques
+antonio rivera rodriguez airport
+basseterre
+robert l bradshaw international airport
+vance w amory international airport
+castries
+george f l charles airport
+vieux fort
+hewanorra international airport
+oranjestad
+queen beatrix international airport
+kralendijk
+flamingo international airport
+willemstad
+hato international airport
+f d roosevelt airport
+sint maarten
+princess juliana international airport
+zions hill
+juancho e yrausquin airport
+the valley
+clayton j lloyd international airport
+geralds park
+john a osborne airport
+scarborough
+anr robinson international airport
+port of spain
+piarco international airport
+beef island
+terrance b lettsome international airport
+kingstown
+argyle international airport
+bequia
+j f mitchell airport
+canouan
+canouan airport
+lovell
+mustique airport
+union island
+union island international airport
+lf wade international airport
+almaty
+almaty international airport
+balkhash
+balkhash airport
+taldykorgan
+taldykorgan airport
+astana
+nursultan nazarbayev international airport
+kokshetau
+kokshetau airport
+petropavl
+petropavl airport
+taraz
+taraz airport
+bishkek
+manas international airport
+osh
+osh airport
+shymkent
+shymkent airport
+turkstan
+hazrat sultan international airport
+zhezkazgan
+zhezkazgan national airport
+karaganda
+saryarka airport
+baikonur
+baikonur krayniy airport
+uralsk
+uralsk airport
+ekibastuz
+ekibastuz airport
+ustkamenogorsk oskemen
+ustkamenogorsk airport
+pavlodar
+pavlodar airport
+semey
+semey airport
+aktau
+aktau airport
+atyrau
+atyrau international airport
+aktobe
+aktobe airport
+kostanay
+kostanay west airport
+baku
+heydar aliyev international airport
+ganja
+ganja international airport
+nakhchivan
+nakhchivan airport
+gabala
+gabala international airport
+zaqatala
+zaqatala international airport
+tamchy
+issykkul international airport
+gyumri
+shirak international airport
+yerevan
+zvartnots international airport
+yakutsk
+yakutsk airport
+neryungri
+chulman airport
+khonuu
+moma airport
+magan
+magan airport
+olyokminsk
+olyokminsk airport
+ustnera
+ustnera airport
+vilyuisk
+vilyuisk airport
+lensk
+lensk airport
+yakutia
+polyarny airport
+mirny
+mirny airport
+saskylakh
+saskylakh airport
+belaya gora
+belaya gora airport
+srednekolymsk
+srednekolymsk airport
+chokurdah
+chokurdakh airport
+cherskiy
+cherskiy airport
+tiksi
+tiksi airport
+zyryanka
+zyryanka airport
+zhigansk
+zhigansk airport
+kopitnari
+david the builder kutaisi international airport
+batumi
+batumi international airport
+sukhumi
+sukhumi babushara   vladislav ardzinba international airport
+tbilisi
+tbilisi international airport
+blagoveschensk
+ignatyevo airport
+khabarovsk
+khabarovsk novy airport
+komsomolskonamur
+komsomolskonamur airport
+sovetskaya gavan
+sovetskaya gavan maygatka airport
+anadyr
+ugolny yuri ryktheu airport
+chukotka
+provideniya bay airport
+keperveem
+keperveem airport
+magadan
+sokol airport
+apapelgino
+pevek airport
+evensk
+severoevensk airport
+nikolayevsknaamure airport
+okhotsk
+okhotsk airport
+petropavlovskkamchatsky
+yelizovo airport
+yuzhnosakhalinsk
+yuzhnosakhalinsk airport
+artyom
+vladivostok international airport
+chita
+chitakadala international airport
+bratsk
+bratsk airport
+irkutsk
+irkutsk international airport
+ustkut
+ustkut airport
+ulan ude
+baikal international airport
+boryspil
+boryspil international airport
+mariupol
+mariupol international airport
+berdyansk
+berdyansk airport
+dnipro
+dnipro international airport
+zaporizhia
+zaporizhzhia international airport
+kryvyi rih
+kryvyi rih international airport
+sevastopol
+sevastopol international airport  belbek air base
+simferopol
+simferopol international airport
+kharkiv
+kharkiv international airport
+cherkasy
+cherkasy international airport
+kyiv
+ihor sikorsky kyiv international airport zhuliany
+khmelnytskyi
+khmelnytskyi airport
+ivanofrankivsk
+ivanofrankivsk international airport
+lviv
+lviv international airport
+chernivtsi
+chernivtsi international airport
+rivne
+rivne international airport
+uzhhorod
+uzhhorod international airport
+kherson
+kherson international airport
+nikolayev
+mykolaiv international airport
+odessa
+odessa international airport
+vinnitsa
+vinnytsiagavyryshivka international airport
+archangelsk
+talagi airport
+arkhangelsk
+vaskovo airport
+naryan mar
+naryan mar airport
+amderma
+amderma airport
+kotlas
+kotlas airport
+st petersburg
+pulkovo airport
+murmansk
+murmansk airport
+pskov
+pskov airport
+petrozavodsk
+petrozavodsk airport
+cherepovets
+cherepovets airport
+velikiy ustyug
+velikiy ustyug airport
+vologda
+vologda airport
+brest
+brest airport
+gomel
+gomel airport
+vitebsk
+vitebsk vostochny airport
+kaliningrad
+khrabrovo airport
+hrodna
+hrodna airport
+minsk
+minsk national airport
+mogilev
+mogilev airport
+abakan
+abakan international airport
+barnaul
+barnaul airport
+gornoaltaysk
+gornoaltaysk airport
+kemerovo
+kemerovo airport
+baykit
+baykit airport
+yeniseysk
+yeniseysk airport
+bor
+podkamennaya tunguska airport
+severoyeniseysk
+severoyeniseysk airport
+vanavara
+vanavara airport
+krasnoyarsk
+krasnoyarsk international airport
+krasnoyarsk cheremshanka airport
+achinsk
+achinsk airport
+kyzyl
+kyzyl airport
+novosibirsk
+novosibirsk tolmachevo airport
+omsk
+omsk central airport
+strezhevoy
+strezhevoy airport
+tomsk
+bogashevo airport
+novokuznetsk
+spichenkovo airport
+dikson
+dikson airport
+khatanga
+khatanga airport
+svetlogorsk
+svetlogorsk airport
+igarka
+igarka airport
+norilsk
+norilskalykel airport
+krasnyi kurgan
+anapa vityazevo airport
+gelendzhik
+gelendzhik airport
+krasnodar
+krasnodar pashkovsky international airport
+grozny
+grozny airport
+makhachkala
+makhachkala uytash international airport
+mineralnyye vody
+mineralnyye vody airport
+nalchik
+nalchik airport
+beslan
+vladikavkaz beslan international airport
+sunzha
+magas airport
+stavropol
+stavropol shpakovskoye airport
+rostovondon
+platov international airport
+taganrog
+taganrog yuzhny airport
+sochi
+sochi international airport
+astrakhan
+astrakhan narimanovo boris m kustodiev international airport
+elista
+elista airport
+volgograd
+volgograd international airport
+chelyabinsk
+chelyabinsk balandino airport
+magnitogorsk
+magnitogorsk international airport
+sabetta
+sabetta international airport
+bovanenkovo
+bovanenkovo airport
+salekhard
+salekhard airport
+berezovo airport
+khantymansiysk
+khanty mansiysk airport
+nyagan
+nyagan airport
+beloyarskiy airport
+sovetskiy
+sovetskiy airport
+uray
+uray airport
+izhevsk
+izhevsk airport
+kirov
+pobedilovo airport
+nadym
+nadym airport
+novy urengoy
+novy urengoy airport
+nizhnevartovsk
+nizhnevartovsk airport
+perm
+perm international airport
+kogalym
+kogalym international airport
+nefteyugansk
+nefteyugansk airport
+noyabrsk
+noyabrsk airport
+surgut
+surgut airport
+yekaterinburg
+koltsovo airport
+tobolsk
+remezov airport
+tyumen
+roshchino international airport
+kurgan
+kurgan airport
+ashgabat
+ashgabat international airport
+turkmenbashi
+turkmenbashi international airport
+mary
+mary international airport
+daoguz
+daoguz airport
+trkmenabat
+trkmenabat international airport
+dushanbe
+dushanbe international airport
+kulyab
+kulob airport
+khujand
+khujand airport
+kurgantyube
+qurghonteppa international airport
+andizhan
+andizhan airport
+fergana
+fergana international airport
+nukus
+nukus airport
+urgench
+urgench airport
+navoi
+navoi airport
+bukhara
+bukhara international airport
+samarkand
+samarkand airport
+termez
+termez airport
+tashkent
+tashkent international airport
+kostroma
+kostroma sokerkino airport
+kaluga
+grabtsevo airport
+ivanovo
+ivanovo south airport
+rybinsk
+staroselye airport
+bryansk
+bryansk airport
+moscow
+zhukovsky international airport
+domodedovo international airport
+sheremetyevo international airport
+tver
+migalovo air base
+ostafyevo international airport
+chkalovskiy air base
+belgorod
+belgorod international airport
+kursk
+kursk east airport
+lipetsk
+lipetsk airport
+voronezh
+voronezh international airport
+tambov
+donskoye airport
+vnukovo international airport
+ukhta
+ukhta airport
+inta
+inta airport
+pechora
+pechora airport
+usinsk
+usinsk airport
+vorkuta
+vorkuta airport
+usttsylma
+usttsylma airport
+syktyvkar
+syktyvkar airport
+nizhny novgorod
+nizhny novgorod  strigino international airport
+bugulma
+bugulma airport
+kazan
+kazan international airport
+nizhnekamsk
+begishevo airport
+yoshkarola
+yoshkarola airport
+cheboksary
+cheboksary airport
+ulyanovsk
+ulyanovsk baratayevka airport
+cherdakly
+ulyanovsk east airport
+orenburg
+orenburg central airport
+orsk
+orsk airport
+penza
+penza airport
+saransk
+saransk airport
+balakovo
+balakovo airport
+saratov
+gagarin international airport
+ufa
+ufa international airport
+samara
+kurumoch international airport
+rewa
+rewa airport chorhata rewa
+gondia
+gondia airport
+ahmedabad
+sardar vallabh bhai patel international airport
+akola
+akola airport
+aurangabad
+aurangabad airport
+mumbai
+chhatrapati shivaji international airport
+bhuj
+bhuj airport
+belgaum
+belagavi airport
+vadodara
+vadodara airport
+bhopal
+raja bhoj international airport
+bhavnagar
+bhavnagar airport
+daman
+daman airport
+hubli
+hubli airport
+rajkot
+rajkot international airport
+indore
+devi ahilyabai holkar airport
+jabalpur
+jabalpur airport
+jamnagar
+jamnagar airport
+kandla
+kandla airport
+khajuraho
+khajuraho airport
+kolhapur
+kolhapur airport
+keshod
+keshod airport
+latur
+murod kond airport
+nanded
+nanded airport
+nagpur
+dr babasaheb ambedkar international airport
+nasik
+nashik airport
+pune
+pune airport  lohagaon air force station
+porbandar
+porbandar airport
+ratnagiri airport
+rajkot airport
+raipur
+swami vivekananda airport
+kakadi
+shirdi airport
+solapur
+solapur airport
+surat
+surat airport
+udaipur
+maharana pratap airport
+colombo
+bandaranaike international colombo airport
+anuradhapura
+anuradhapura airport
+batticaloa
+batticaloa airport
+colombo ratmalana airport
+ampara
+ampara airport
+polonnaruwa town
+hingurakgoda air force base
+jaffna
+jaffna international airport
+galle
+koggala airport
+trincomalee
+china bay airport
+mattala
+mattala rajapaksa international airport
+battambang
+battambang airport
+kampong chhnang
+kampong chhnang airport
+phnom penh pou senchey
+phnom penh international airport
+ratanakiri
+ratanakiri airport
+siem reap
+siem reapangkor international airport
+along airport
+agartala
+agartala  maharaja bir bikram airport
+siliguri
+bagdogra airport
+shillong
+shillong airport
+varanasi
+lal bahadur shastri airport
+bhubaneswar
+biju patnaik airport
+bilaspur
+bilaspur airport
+kolkata
+netaji subhash chandra bose international airport
+dhanbad airport
+durgapur
+kazi nazrul islam airport
+darbhanga
+darbhanga airport
+gorakhpur
+gorakhpur airport
+guwahati
+lokpriya gopinath bordoloi international airport
+gaya
+gaya airport
+imphal
+imphal airport
+jamshedpur
+sonari airport
+jorhat
+jorhat airport
+kushinagar
+kushinagar international airport
+kailashahar
+kailashahar airport
+silchar
+silchar airport
+aizawl lengpui
+lengpui airport
+lilabari
+lilabari north lakhimpur airport
+dibrugarh
+dibrugarh airport
+dimapur
+dimapur airport
+muzaffarpur
+muzaffarpur airport
+patna
+jay prakash narayan airport
+ranchi
+birsa munda airport
+rourkela
+rourkela airport
+tezpur airport
+visakhapatnam
+visakhapatnam airport
+ziro
+ziro airport
+barisal
+barisal airport
+coxs bazar
+coxs bazar airport
+chattogram chittagong
+shah amanat international airport
+dhaka
+hazrat shahjalal international airport
+ishurdi
+ishurdi airport
+jashore jessore
+jessore airport
+rajshahi
+shah mokhdum airport
+saidpur
+saidpur airport
+sylhet
+osmany international airport
+hong kong
+hong kong international airport
+agra
+agra airport  agra air force station
+allahabad
+prayagraj airport
+amritsar
+sri guru ram dass jee international airport
+bikaner
+nal airport
+bhuntar
+kullu manali airport
+bhatinda air force station
+bareilly
+bareilly air force station
+chandigarh
+chandigarh international airport
+kanpur
+kanpur airport
+dehradun jauligrant
+dehradun jolly grant airport
+delhi
+new delhi
+indira gandhi international airport
+kangra
+kangra airport
+gwalior
+gwalior airport
+hisar
+hisar airport
+jodhpur
+jodhpur airport
+jaipur
+jaipur international airport
+jaisalmer airport
+jammu
+jammu airport
+ajmer kishangarh
+kishangarh airport ajmer
+kota
+kota airport
+ludhiana airport
+leh
+leh kushok bakula rimpochee airport
+lucknow
+chaudhary charan singh international airport
+moradabad
+moradabad airport
+pathankot
+pathankot airport
+pantnagar
+pantnagar airport
+srinagar
+sheikh ul alam international airport
+luang phabang
+luang phabang international airport
+pakse
+pakse international airport
+savannakhet airport
+sam neua airport
+vientiane
+wattay international airport
+puerto vallemi
+doctor juan plate national airport
+nossa senhora do carmo
+macau international airport
+siddharthanagar bhairahawa
+gautam buddha international airport
+janakpur
+janakpur airport
+kathmandu
+tribhuvan international airport
+nepalgunj
+nepalgunj airport
+taplejung
+taplejung airport
+biratnagar
+biratnagar airport
+agatti
+agatti airport
+bellary
+bellary airport
+bangalore
+kempegowda international airport
+bidar
+bidar airport  bidar air force station
+gannavaram
+vijayawada airport
+coimbatore
+coimbatore international airport
+kochi
+cochin international airport
+calicut
+calicut international airport
+kadapa
+kadapa airport
+iaf camp
+car nicobar air force base
+mopa
+manohar international airport
+vasco da gama
+dabolim airport
+hyderabad
+rajiv gandhi international airport
+begumpet airport
+kannur
+kannur international airport
+orvakal
+kurnool airport
+madurai
+madurai airport
+mangalore
+mangalore international airport
+chennai
+chennai international airport
+port blair
+veer savarkar international airport  ins utkrosh
+puducherry pondicherry
+pondicherry airport
+puttaparthi
+sri sathya sai airport
+madhurapudi
+rajahmundry airport
+salem airport
+sindhudurg
+sindhudurg airport
+tiruchirappalli
+tiruchirappalli international airport
+thiruvananthapuram
+thiruvananthapuram international airport
+gelephu
+gelephu airport
+paro
+paro international airport
+noonu atoll
+maafaru international airport
+gan
+gan international airport
+haa dhaalu atoll
+hanimaadhoo airport
+kadhdhoo
+kadhdhoo airport
+mal
+mal international airport
+huvadhu atoll
+kaadedhdhoo airport
+maamigili
+villa international airport maamigili
+bangkok
+don mueang international airport
+nakhon pathom
+kamphaeng saen airport
+laem ngop
+trat airport
+suvarnabhumi airport
+rayong
+utapao international airport
+chiang mai
+chiang mai international airport
+mae hong son
+mae hong son airport
+lampang airport
+nan airport
+phrae airport
+chiang rai
+mae fah luang  chiang rai international airport
+phetchabun airport
+hua hin
+hua hin airport
+takhli airport
+mae sot airport
+sukhothai airport
+phitsanulok
+phitsanulok airport
+tak airport
+surat thani
+surat thani airport
+narathiwat airport
+chumphon
+chumphon airport
+nakhon si thammarat
+nakhon si thammarat airport
+krabi
+krabi airport
+songkhla airport
+pattani airport
+na thon ko samui island
+samui airport
+phuket
+phuket international airport
+ranong
+ranong airport
+hat yai
+hat yai international airport
+trang
+trang airport
+udon thani
+udon thani airport
+sakon nakhon airport
+surin
+surin airport
+khon kaen
+khon kaen airport
+loei airport
+buriram
+buri ram airport
+chaloem phra kiat
+nakhon ratchasima airport
+ubon ratchathani
+ubon ratchathani airport
+roi et
+roi et airport
+nakhon phanom
+nakhon phanom airport
+buon ma thuot
+buon ma thuot airport
+haiphong hai an
+cat bi international airport
+ca mau city
+c mau airport
+cam ranh
+cam ranh international airport  cam ranh air base
+con dao
+con dao airport
+can tho
+can tho international airport
+dien bien phu
+dien bien phu airport
+dong hoi
+dong hoi airport
+da lat
+lien khuong airport
+da nang
+da nang international airport
+hanoi soc son
+noi bai international airport
+hu
+phu bai international airport
+quy nohn
+phu cat airport
+pleiku
+pleiku airport
+phu quoc island
+phu quoc international airport
+rach gia
+rach gia airport
+tuy hoa
+dong tac airport
+ho chi minh city
+tan son nhat international airport
+van don
+van don international airport
+vinh
+vinh airport
+dawei
+dawei airport
+kengtung
+kengtung airport
+kyaukpyu
+kyaukpyu airport
+kawthoung
+kawthoung airport
+loikaw
+loikaw airport
+lashio
+lashio airport
+mandalay
+mandalay international airport
+mkeik
+myeik airport
+myitkyina
+myitkyina airport
+momeik airport
+mong hsat
+mong hsat airport
+namsang
+namsang airport
+pyinmana
+nay pyi taw international airport
+putao
+putao airport
+sittwe
+sittwe airport
+thandwe
+thandwe airport
+tachileik
+tachileik airport
+yangon
+yangon international airport
+ujung pandang
+hasanuddin international airport
+biak
+frans kaisiepo airport
+nabire
+douw aturure airport
+serui
+stevanus rumbewas airport
+timika
+mozes kilangin airport
+kuta badung
+denpasar i gusti ngurah rai international airport
+mataram pujut lombok tengah
+lombok international airport
+sango
+sultan babullah airport
+gotalalamomorotai island
+pitu airport
+toraja
+toraja airport
+palu
+mutiara  sis aljufrie airport
+posocelebes island
+kasiguncu airport
+luwok
+syukuran aminuddin amir airport
+palangkaraya
+tjilik riwut airport
+yogyakarta
+yogyakarta international airport
+cilacap
+tunggul wulung airport
+sentani
+dortheys hiyo eluay international airport
+oksibil
+oksibil airport
+merauke
+mopah international airport
+tanah merah
+tanah merah airport
+balikpapan
+sultan aji muhammad sulaiman sepinggan international airport
+tarakan
+juwata international airport  suharnoko harbani afb
+samarinda
+aji pangeran tumenggung pranoto international airport
+tabukan utara sangihe islands
+naha airport
+manado
+sam ratulangi airport
+tantatabalong
+warukin airport
+landasan ulin
+syamsudin noor international airport
+langgur
+karel sadsuitubun airport
+namniwel
+namniwel airport
+ambon
+pattimura international airport
+tanjung redeb  borneo island
+kalimarau airport
+malang
+abdul rachman saleh airport
+adisutjipto airport
+surakarta
+adisumarmo airport
+surabaya
+juanda international airport
+semarang
+achmad yani airport
+fakfak
+fakfak airport
+kaimana
+kaimana airport
+babo
+babo airport
+manokwari
+rendani airport
+sorong
+domine eduard osok airport
+wamena
+wamena airport
+wangiwangi island
+matahora airport
+kolaka
+sangia nibandera airport
+bintulu
+bintulu airport
+kuching
+kuching international airport
+limbang
+limbang airport
+mukah
+mukah airport
+marudi
+marudi airport
+miri
+miri airport
+sibu
+sibu airport
+bario
+bario airport
+lahad datu
+lahad datu airport
+kota kinabalu
+kota kinabalu international airport
+labuan
+labuan airport
+sandakan
+sandakan airport
+tawau
+tawau airport
+mulu
+mulu airport
+bandar seri begawan
+brunei international airport
+pekanbaru
+sultan syarif kasim ii international airport  roesmin nurjadin afb
+dumai
+pinang kampai airport
+rengatsumatra island
+japura airport
+kertajati
+kertajati international airport
+bandung
+husein sastranegara international airport
+batam
+hang nadim international airport
+jakarta
+halim perdanakusuma international airport
+soekarnohatta international airport
+bandar lampung
+radin inten ii international airport
+gunungsitoli
+binaka airport
+padang sidempuan
+aek godang airport
+medan
+soewondo air force base
+beringin
+kualanamu international airport
+sibolga pinangsori
+dr ferdinand lumban tobing airport
+kutacane
+alas leuser airport
+nanga pinohborneo island
+nanga pinoh airport
+ketapang
+rahadi osman airport
+ranainatuna besar island
+ranai airport
+pontianak
+supadio airport
+putussibauborneo island
+pangsuma airport
+sintang
+tebelian airport
+pangkal pinang
+depati amir airport
+bengkulu
+fatmawati soekarno airport
+palembang
+sultan mahmud badaruddin ii airport
+talang gudangsumatra island
+pendopo airport
+padang katapiang
+minangkabau international airport
+kuala pesisir
+cut nyak dhien airport
+takengon
+rembele airport
+lhok sukonsumatra island
+lhok sukon airport
+banda aceh
+sultan iskandar muda international airport
+tioman island
+tioman airport
+alor satar
+sultan abdul halim airport
+butterworth
+rmaf butterworth air base
+kota baharu
+sultan ismail petra airport
+kuantan
+kuantan airport
+kerteh
+kerteh airport
+ipoh
+sultan azlan shah airport
+johor bahru
+senai international airport
+sepang
+kuala lumpur international airport
+langkawi
+langkawi international airport
+malacca
+malacca international airport
+kuala terengganu
+sultan mahmud airport
+penang
+penang international airport
+subang
+sultan abdul aziz shah international airport
+suai
+suai airport
+dili
+presidente nicolau lobato international airport
+baucau
+cakung airport
+oecussiambeno
+rota do sndalo oecusse airport
+paya lebar
+paya lebar air base
+western water catchment
+tengah air base
+seletar
+seletar airport
+singapore
+singapore changi airport
+albany airport
+ararat
+ararat airport
+armidale
+armidale airport
+yulara
+ayers rock connellan airport
+barcaldine
+barcaldine airport
+alice springs
+alice springs airport
+brisbane
+brisbane international airport
+gold coast
+gold coast airport
+blackall
+blackall airport
+cairns
+cairns international airport
+charleville
+charleville airport
+birdsville airport
+broken hill
+broken hill airport
+hamilton island
+hamilton island airport
+bedourie
+bedourie airport
+bourke airport
+benalla
+benalla airport
+mount isa
+mount isa airport
+mackay
+mackay airport
+ballina
+ballina byron gateway airport
+bairnsdale
+bairnsdale airport
+oakey army aviation centre
+boulia airport
+proserpine
+proserpine whitsunday coast airport
+rockhampton
+rockhampton airport
+broome
+broome international airport
+balranald airport
+brewarrina airport
+maroochydore
+sunshine coast airport
+bathurst
+wurrumiyanga
+bathurst island airport
+townsville
+townsville airport  raaf base townsville
+blackwater airport
+bundaberg
+bundaberg airport
+weipa
+weipa airport
+toowoomba
+toowoomba wellcamp airport
+carnarvon
+carnarvon airport
+cobar airport
+coonabarabran airport
+coober pedy
+coober pedy airport
+chinchilla
+chinchilla airport
+cloncurry
+cloncurry airport
+ceduna airport
+cleve airport
+coffs harbour
+coffs harbour airport
+derby
+raaf base curtin
+cooktown airport
+clermont airport
+cunnamulla airport
+coonamble airport
+coen
+coen airport
+cooma
+cooma snowy mountains airport
+corowa airport
+corryong airport
+cootamundra airport
+cowra airport
+dirranbandi airport
+derby airport
+deniliquin
+deniliquin airport
+devonport
+devonport airport
+dysart airport
+echuca airport
+elcho island
+elcho island airport
+emerald
+emerald airport
+esperance
+esperance airport
+eliwana
+forbes
+forbes airport
+forrest airport
+fitzroy crossing airport
+gunnedah airport
+moonyoonooka
+geraldton airport
+grafton
+clarence valley regional airport
+gladstone
+gladstone airport
+goulburn airport
+glen innes
+glen innes airport
+pirlangimpi
+garden point airport
+groote eylandt
+groote eylandt airport
+griffith
+griffith airport
+hay airport
+hervey bay
+hervey bay airport
+horn
+horn island airport
+halls creek airport
+hamilton airport
+mount hotham
+mount hotham airport
+hopetoun airport
+horsham airport
+inverell
+inverell airport
+kerang airport
+king island airport
+kempsey airport
+kowanyama
+kowanyama airport
+kingaroy airport
+kingscote airport
+leigh creek airport
+leonora
+leonora airport
+lockhart river
+lockhart river airport
+lismore
+lismore airport
+lightning ridge airport
+longreach
+longreach airport
+leinster airport
+morwell
+latrobe valley airport
+lara
+avalon airport
+east albury
+albury airport
+mareeba
+mareeba airport
+mudgee
+mudgee airport
+meekatharra airport
+essendon fields
+melbourne essendon airport
+merimbula
+merimbula airport
+maningrida
+maningrida airport
+hobart cambridge
+hobart international airport
+mildura
+mildura airport
+launceston western junction
+launceston airport
+melbourne moorabbin airport
+melbourne airport
+mount keith airport
+mount magnet airport
+moree
+moree airport
+moranbah
+moranbah airport
+moruya
+moruya airport
+mount gambier
+mount gambier airport
+narrandera
+narrandera airport
+narrabri
+narrabri airport
+ngukurr airport
+narromine airport
+normanton
+normanton airport
+newman
+newman airport
+orange
+orange airport
+adelaide
+adelaide international airport
+port augusta airport
+paraburdoo
+paraburdoo airport
+west island
+cocos keeling islands airport
+darwin
+darwin international airport  raaf darwin
+nhulunbuy
+gove airport
+port pirie airport
+perth
+perth jandakot airport
+karratha
+karratha airport
+broadwood
+kalgoorlie boulder airport
+parkes
+parkes airport
+wadeye
+port keats airport
+kununurra
+east kimberley regional kununurra airport
+port lincoln
+port lincoln airport
+exmouth
+learmonth airport
+port macquarie
+port macquarie airport
+portland airport
+port hedland
+port hedland international airport
+perth international airport
+tindal airport
+flying fish cove
+christmas island airport
+quilpie airport
+renmark airport
+roma
+roma airport
+sydney bankstown airport
+canberra
+canberra airport
+cobbitty
+camden airport
+dubbo
+dubbo city regional airport
+denham
+shark bay airport
+albion park rail
+shellharbour airport
+shepparton airport
+smithton airport
+milikapiti
+snake bay airport
+burnt pine
+norfolk island international airport
+nowra hill
+naval air station nowra  hmas albatross
+raaf base richmond
+sydney mascot
+sydney kingsford smith international airport
+tamworth
+tamworth airport
+forest hill
+wagga wagga airport
+swan hill airport
+stawell airport
+telfer airport
+temora
+temora airport
+thargomindah
+thargomindah airport
+tibooburra airport
+tumut
+tumut aerodrome
+biloela
+thangool airport
+tennant creek
+tennant creek airport
+taree
+taree airport
+windorah
+windorah airport
+laceby
+wangaratta airport
+whyalla
+whyalla airport
+warracknabeal airport
+walgett airport
+williamtown
+wiluna airport
+sale
+west sale airport
+winton airport
+west wyalong
+west wyalong airport
+burnie
+wynyard airport
+young airport
+beijing capital international airport
+beijing daxing international airport
+chengde
+chengde puning airport
+chifeng
+chifeng yulong airport
+qinhuangdao changli
+qinhuangdao beidaihe airport
+ordos
+ordos ejin horo airport
+erenhot
+erenhot saiwusu international airport
+arxan
+arxan yiershi airport
+handan
+handan airport
+hohhot
+hohhot baita international airport
+holingol
+holingol huolinhe airport
+hailar
+hulunbuir hailar airport
+linfen yaodu
+linfen yaodu airport
+lliang
+lliang dawu airport
+manzhouli
+manzhouli xijiao airport
+baotou
+baotou donghe airport
+shijiazhuang
+shijiazhuang zhengding international airport
+tianjin
+tianjin binhai international airport
+tongliao
+tongliao airport
+ulanqab
+ulanqab jining airport
+xilinhot
+xilinhot airport
+yuncheng yanhu
+yuncheng zhangxiao airport
+taiyuan
+taiyuan wusu international airport
+bavannur
+bayannur tianjitai airport
+zhangjiakou
+zhangjiakou ningyuan airport
+zhalantun
+zhalantun genghis khan airport
+beihai yinhai
+beihai fucheng airport
+baise tianyang
+baise bose bama airport
+changde dingcheng
+changde taohuayuan airport
+huaihua
+huaihua zhijiang airport
+chenzhou
+chenzhou beihu airport
+foshan nanhai
+foshan shadi airport
+guangzhou huadu
+guangzhou baiyun international airport
+changsha changsha
+changsha huanghua international airport
+hechi jinchengjiang
+hechi jinchengjiang airport
+huizhou pingtan
+huizhou pingtan airport
+guilin lingui
+guilin liangjiang international airport
+yongzhou
+yongzhou lingling airport
+nanning jiangnan
+nanning wuxu airport
+jieyang rongcheng
+jieyang chaoshan international airport
+zhuhai jinwan
+zhuhai jinwan airport
+shaoyang wugang
+shaoyang wugang airport
+shenzhen baoan
+shenzhen baoan international airport
+tangbu
+wuzhou xijiang airport
+yln
+yulin fumian airport
+yueyang yueyanglou
+yueyang sanhe airport
+liuzhou liujiang
+liuzhou bailian airport  bailian air base
+zhanjiang
+zhanjiang wuchuan airport
+zhengzhou
+zhengzhou xinzheng international airport
+ezhou
+ezhou huahu airport
+enshi enshi
+enshi xujiaping airport
+xiangyang laohekou
+guangzhou mr air base  guanghua airport
+wuhan huangpi
+wuhan tianhe international airport
+jingzhou shashi
+jingzhou shashi airport
+luoyang laocheng
+luoyang beijiao airport
+shennongjia hongping
+shennongjia hongping airport
+shiyan maojian
+shiyan wudangshan airport
+xiangyang xiangzhou
+xiangyang liuji airport
+xinyang
+xinyang minggang airport
+yichang xiaoting
+yichang sanxia airport
+haikou meilan
+haikou meilan international airport
+qionghai basuo
+qionghai boao airport
+sanya tianya
+sanya phoenix international airport
+hoemunri
+orang chongjin airport
+pyongyang
+pyongyang sunan international airport
+sndngni
+sondok airport
+wonsan
+wonsan kalma international airport
+dunhuang
+dunhuang mogao international airport
+golog maqn
+golog maqn airport
+golmud
+golmud airport
+guyuan yuanzhou
+guyuan liupanshan airport
+mengnai
+huatugou airport
+yinchuan
+yinchuan hedong international airport
+lanzhou yongdeng
+lanzhou zhongchuan international airport
+longnan cheng
+longnan chengzhou airport
+qingyang xifeng
+qingyang xifeng airport
+xian baqiao
+xian xiguan airport
+tianshui maiji
+tianshui maijishan airport
+gannan xiahe
+gannan xiahe airport
+haidong huzhu tu autonomous county
+xining caojiabao international airport
+xianyang weicheng
+xian xianyang international airport
+yanan baota
+yanan nanniwan airport
+yushu batang
+yushu batang airport
+zhongwei shapotou
+zhongwei shapotou airport
+kalumbila
+kalumbila airport
+arvaikheer
+arvaikheer airport
+altai
+altai airport
+bayankhongor
+bayankhongor airport
+bulgan
+bulgan airport
+baruun urt airport
+choibalsan airport
+ulaanbaatar sergelen
+ulaanbaatar chinggis khaan international airport
+dalanzadgad
+dalanzadgad airport
+khovd
+khovd airport
+mrn
+mrn airport
+ulaanbaatar
+buyantukhaa international airport
+baoshan longyang
+baoshan yunrui airport
+lincang cangyuan
+cangyuan washan airport
+dali xiaguan
+dali fengyi airport
+diqing shangrila
+diqing shangrila airport
+jinghong gasa
+xishuangbanna gasa international airport
+puer lancang
+lancang jingmai airport
+lincang
+lincang boshang airport
+lijiang gucheng
+lijiang sanyi international airport
+dehong mangshi
+dehong mangshi airport
+kunming
+kunming changshui international airport
+chuxiong yuanmou
+yuanmou air base
+xiamen
+xiamen gaoqi international airport
+anqing
+anqing tianzhushan airport  anqing north air base
+bengbu
+bengbu tenghu airport
+changzhou
+changzhou benniu international airport
+nanchang
+nanchang changbei international airport
+dongying kenli
+dongying shengli airport
+yingzhou fuyang
+fuyang xiguan airport
+fuzhou changle
+fuzhou changle international airport
+hangzhou
+hangzhou xiaoshan international airport
+heze dingtao
+heze mudan airport
+jingdezhen
+jingdezhen luojia airport
+jining
+jining daan airport
+jinan licheng
+jinan yaoqiang international airport
+quzhou kezheng
+quzhou airport
+lianyungang
+lianyungang huaguoshan international airport
+longyan liancheng
+liancheng guanzhishan airport
+taizhou luqiao
+taizhou luqiao airport
+linyi hedong
+linyi qiyang airport
+ningbo
+ningbo lishe international airport
+nanjing
+nanjing lukou international airport
+nantong tongzhou
+nantong xingdong international airport
+hefei
+hefei xinqiao international airport
+shanghai pudong
+shanghai pudong international airport
+qingdao jiaozhou
+qingdao jiaodong international airport
+quanzhou
+quanzhou jinjiang international airport
+rugao nantong
+rugao air base
+rizhao donggang
+rizhao shanzihe airport
+huaian
+huaian lianshui international airport
+sanming sha
+sanming shaxian airport
+shangrao hengfeng
+shangrao sanqingshan airport
+shanghai minhang
+shanghai hongqiao international airport
+suzhou
+suzhou guangfu airport
+huangshan
+tunxi international airport
+wuhu
+wuhu xuanzhou airport
+weifang kuiwen
+weifang nanyuan airport
+weihai
+weihai dashuibo airport
+wuxi
+sunan shuofang international airport
+wuyishan
+nanping wuyishan airport
+wenzhou longwan
+wenzhou longwan international airport
+xuzhou
+xuzhou guanyin international airport
+yangzhou
+yangzhou taizhou airport
+yichun
+yichun mingyueshan airport
+yancheng tinghu
+yancheng nanyang international airport
+yantai
+yantai penglai international airport
+jinhua yiwu
+yiwu airport
+zhoushan
+zhoushan putuoshan airport
+shiquanhe
+ngari gunsa airport
+anshun xixiu
+anshun huangguoshu airport
+bangda
+qamdo bangda airport
+bijie
+bijie feixiong airport
+chongqing
+chongqing jiangbei international airport
+dazhou dachuan
+dazhou jinya airport
+garz daocheng
+daocheng yading airport
+guangyuan lizhou
+guangyuan panlong airport
+guiyang nanming
+guiyang longdongbao international airport
+ngawa hongyuan
+hongyuan airport
+ngawa songpan
+jiuzhai huanglong airport
+garz kangding
+kangding airport
+kaili  huangping
+kaili huangping airport
+shannan gonggar
+lhasa gonggar airport
+luzhou yunlong
+luzhou yunlong airport
+zunyi
+zunyi maotai airport
+mianyang fucheng
+mianyang nanjiao airport
+liping
+liping airport
+nyingchi mainling
+nyingchi mainling airport
+liupanshui zhongshan
+liupanshui yuezhao airport
+qianjiang
+qianjiang wulingshan airport
+xigaz samzhubz
+xigaze peace airport  shigatse air base
+baoshan tengchong
+tengchong tuofeng airport
+chengdu jianyang
+chengdu tianfu international airport
+tongren daxing
+tongren fenghuang airport
+chengdu shuangliu
+chengdu shuangliu international airport
+wulong
+chongqing xiannshan airport
+liangshan xichang
+xichang qingshan airport
+yibin cuiping
+yibin wuliangye airport
+xingyi
+xingyi wanfenglin airport
+panzhihua renhe
+panzhihua baoanying airport
+zunyi xinzhou airport
+aksu onsu
+aksu hongqipo airport
+altay
+altay xuedu airport
+bole
+bole alashankou airport
+qiemo
+qiemo yudu airport
+fuyun
+fuyun koktokay airport
+hami
+hami airport
+korla
+korla licheng airport
+burqin
+burqin kanas airport
+xinyuan
+xinyuan nalati airport
+ruoqiang town
+ruoqiang loulan airport
+shache
+shache airport
+kashgar
+kashgar laining international airport
+shanshan
+shanshan airport
+turpan
+turpan jiaohe airport
+hotan
+hotan airport
+rmqi
+rmqi tianshan international airport
+anshan
+anshan tengao airport  anshan air base
+baicheng
+baicheng changan airport
+baishan
+changbaishan airport
+changchun
+changchun longjia international airport
+dalian changhai
+changhai airport
+shuangta chaoyang
+chaoyang airport
+dandong zhenxing
+dandong langtou airport
+heihe
+wudalianchi dedu airport
+fuyuan
+fuyuan dongji airport
+harbin
+harbin taiping international airport
+heihe aihui airport
+jiagedaqi
+daxinganling elunchun airport
+jiamusi
+jiamusi dongjiao airport
+jiansanjiang
+jiansanjiang shidi airport
+jixi
+jixi xingkaihu airport
+jinzhou linghai
+jinzhou bay airport
+yichun lindu airport
+mudanjiang
+mudanjiang hailang international airport
+mohe
+mohe gulian airport
+qiqihar
+qiqihar sanjiazi airport
+qian gorlos mongol autonomous county
+songyuan chaganhu airport
+dalian ganjingzi
+dalian zhoushuizi international airport
+tonghua
+tonghua sanyuanpu airport
+hunnan shenyang
+shenyang taoxian international airport
+huludao xingcheng
+xingcheng air base
+yanji
+yanji chaoyangchuan airport
+yingkou laobian
+yingkou lanqi airport
